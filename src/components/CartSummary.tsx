@@ -12,8 +12,8 @@ export default function CartSummary() {
   const subtotal = useMemo(() => getSubtotal(), [getSubtotal])
 
   return (
-    <aside className="sticky top-20 rounded-md border bg-white p-4">
-      <h3 className="mb-2 text-lg font-semibold">Selection</h3>
+    <aside className="sticky top-20 rounded-xl border border-brand/10 bg-white p-4 shadow-sm">
+      <h3 className="mb-2 text-lg font-semibold text-gray-900">Selection</h3>
       {selected.length === 0 ? (
         <p className="text-sm text-gray-500">No items selected yet.</p>
       ) : (
@@ -33,10 +33,10 @@ export default function CartSummary() {
             <span className="font-semibold">{formatMoney(subtotal)}</span>
           </div>
           <div className="mt-3 flex gap-2">
-            <a href="/quotation" className="flex-1 rounded bg-brand px-3 py-2 text-center text-white">Quotation</a>
-            <a href="/invoice" className="flex-1 rounded border px-3 py-2 text-center">Invoice</a>
+            <a href="/quotation" className="flex-1 rounded-md bg-gradient-to-r from-brand to-brand-dark px-3 py-2 text-center text-white shadow hover:opacity-95">Quotation</a>
+            <a href="/invoice" className="flex-1 rounded-md border border-brand text-center text-brand hover:bg-brand/5">Invoice</a>
           </div>
-          <button onClick={clear} className="mt-2 w-full rounded border px-3 py-2 text-sm">Clear</button>
+          <button onClick={clear} className="mt-2 w-full rounded-md border border-red-300 px-3 py-2 text-sm text-red-600 hover:bg-red-50">Clear</button>
         </div>
       )}
     </aside>

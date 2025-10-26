@@ -20,13 +20,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen bg-gray-50 text-gray-900">
         {/* client bootstrap for SW/chunk error handling */}
         <ClientBoot />
-        <header className="no-print sticky top-0 z-10 border-b bg-white/80 backdrop-blur">
+        <header className="no-print sticky top-0 z-10 border-b border-brand/10 bg-gradient-to-r from-brand to-brand-dark text-white shadow">
           <div className="mx-auto flex max-w-6xl items-center justify-between p-4">
-            <Link href="/" className="text-xl font-semibold text-brand">PriceList</Link>
-            <nav className="flex gap-4 text-sm">
-              <Link href="/" className="hover:text-brand">Items</Link>
-              <Link href="/quotation" className="hover:text-brand">Quotation</Link>
-              <Link href="/invoice" className="hover:text-brand">Invoice</Link>
+            <Link href="/" className="text-xl font-semibold text-white">PriceList</Link>
+            <nav className="flex gap-6 text-sm">
+              <Link href="/" className="opacity-90 transition hover:opacity-100">Items</Link>
+              <Link href="/quotation" className="opacity-90 transition hover:opacity-100">Quotation</Link>
+              <Link href="/invoice" className="opacity-90 transition hover:opacity-100">Invoice</Link>
             </nav>
           </div>
         </header>

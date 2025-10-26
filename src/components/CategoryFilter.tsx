@@ -14,7 +14,7 @@ export default function CategoryFilter({ categories, value, onChange }: Props) {
       <label className="text-sm text-gray-600" htmlFor="category-select">Category</label>
       <select
         id="category-select"
-        className="rounded-md border bg-white px-2 py-1 text-sm"
+        className="rounded-md border border-brand/30 bg-white px-2 py-1 text-sm outline-none ring-brand/30 focus:ring"
         value={value}
         onChange={(e) => onChange(e.target.value)}
       >
