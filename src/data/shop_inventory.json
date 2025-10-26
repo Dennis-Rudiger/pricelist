@@ -1,341 +1,5044 @@
 {
-  "AGRICULTURAL TOOLS AGRICULTURAL": [],
-  "ELECTRICALS ELECTRICALS": [],
-  "GENERAL HARDWARE GENERAL HARDWARE": [],
-  "GLASSWARE": [],
-  "GLUES & SEALANTS GLUES &": [],
-  "IRON SHEETS & PLATES IRON SHEETS &": [],
-  "JUA KALI PRODUCTS JUA KALI": [],
-  "LOCKS & ACCESSORIES LOCKS &": [],
-  "MORTAR AND ADHESIVES MORTAR AND": [],
-  "NAILS": [],
-  "PAINT ACCESSORIES PAINT": [],
-  "PAINTS": [],
-  "PLUMBING MATERIALS": [
-    { "id": "FLE012", "name": "Flex Tube Metallic 1/2x1ft PLUMBING MATERIALS" },
-    { "id": "PPR155", "name": "Ppr Pipe Danco 63mm PLUMBING MATERIALS" },
-    { "id": "GIR001", "name": "Gi Red Bush 11/2x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR156", "name": "Ppr M/Elbow 63x2 PLUMBING MATERIALS" },
-    { "id": "BAL024", "name": "Ball Valve 11/4 pegler PLUMBING MATERIALS" },
-    { "id": "TIS009", "name": "Tissue Holder NEMSI Black PLUMBING MATERIALS" },
-    { "id": "PVC096", "name": "Pvc W/Pipe Metro 11/4\" PLUMBING MATERIALS" },
-    { "id": "TOW016", "name": "Towel Holder -Premium square-black PLUMBING MATERIALS" },
-    { "id": "PPR158", "name": "Ppr F/Thread Union 3/4 PLUMBING MATERIALS" },
-    { "id": "BAL026", "name": "Ball Valve 3/4-Lirlee PLUMBING MATERIALS" },
-    { "id": "ANG011", "name": "Angle Valve 1/2turn PLUMBING MATERIALS" },
-    { "id": "ASI002", "name": "Asian Toilet PLUMBING MATERIALS" },
-    { "id": "BAL011", "name": "Ball Valve 1 Pegler PLUMBING MATERIALS" },
-    { "id": "BAL012", "name": "Ball Valve 1/2 Pegler PLUMBING MATERIALS" },
-    { "id": "BAL013", "name": "Ball Valve 11/2 pegler PLUMBING MATERIALS" },
-    { "id": "BOS001", "name": "Boss White 200g PLUMBING MATERIALS" },
-    { "id": "BOS002", "name": "Boss White 400g PLUMBING MATERIALS" },
-    { "id": "BOT007", "name": "Magic Connector Plastic 11/2\" PLUMBING MATERIALS" },
-    { "id": "BOT009", "name": "Magic Connector Plastic 11/4\" PLUMBING MATERIALS" },
-    { "id": "BOT010", "name": "Bottle Trap Viega 1 1/4 PLUMBING MATERIALS" },
-    { "id": "BOT011", "name": "Bottle Trap Viega 11/2 PLUMBING MATERIALS" },
-    { "id": "CIS004", "name": "Cistern High Lever PLUMBING MATERIALS" },
-    { "id": "CIS005", "name": "Cistern Low Lever PLUMBING MATERIALS" },
-    { "id": "CYP001", "name": "Syphone PLUMBING MATERIALS" },
-    { "id": "CYP003", "name": "Syphon Top Flush PLUMBING MATERIALS" },
-    { "id": "DAY010", "name": "Waterpump Dayliff 0.5HP PLUMBING MATERIALS" },
-    { "id": "DRA001", "name": "Drain Opener 1kg PLUMBING MATERIALS" },
-    { "id": "DRA002", "name": "Drain Opener 500g PLUMBING MATERIALS" },
-    { "id": "FLE004", "name": "Flex Tube Plastic 1/2x2ft PLUMBING MATERIALS" },
-    { "id": "GAT003", "name": "Gate Valve 1/2 PLUMBING MATERIALS" },
-    { "id": "GAT004", "name": "Gate Valve 11/2 PLUMBING MATERIALS" },
-    { "id": "GAT005", "name": "Gate Valve 11/4 PLUMBING MATERIALS" },
-    { "id": "GAT006", "name": "Gate Valve 2 pegler PLUMBING MATERIALS" },
-    { "id": "GI002", "name": "Gi Back Nut 1/2 PLUMBING MATERIALS" },
-    { "id": "GI004", "name": "Gi Back Nut 11/4 PLUMBING MATERIALS" },
-    { "id": "GI005", "name": "Gi Back Nut 2 PLUMBING MATERIALS" },
-    { "id": "GI006", "name": "Gi Back Nut 3/4 PLUMBING MATERIALS" },
-    { "id": "GI007", "name": "Gi Barrel Nipple 1 PLUMBING MATERIALS" },
-    { "id": "GI008", "name": "Gi Barrel Nipple 1/2 PLUMBING MATERIALS" },
-    { "id": "GI012", "name": "Gi Barrel Nipple 3/4 PLUMBING MATERIALS" },
-    { "id": "GI020", "name": "Gi Cup Plug 1/2 PLUMBING MATERIALS" },
-    { "id": "GI023", "name": "Gi Cup Plug 3/4 PLUMBING MATERIALS" },
-    { "id": "GI024", "name": "Gi Elbow 1 PLUMBING MATERIALS" },
-    { "id": "GI025", "name": "Gi Elbow 1/2 PLUMBING MATERIALS" },
-    { "id": "GI026", "name": "Gi Elbow 11/2 PLUMBING MATERIALS" },
-    { "id": "GI027", "name": "Gi Elbow 11/4 PLUMBING MATERIALS" },
-    { "id": "GI029", "name": "Gi Elbow 3/4 PLUMBING MATERIALS" },
-    { "id": "GI031", "name": "Gi Hex Nipple 1/2 PLUMBING MATERIALS" },
-    { "id": "GI032", "name": "Gi Hex Nipple 11/2 PLUMBING MATERIALS" },
-    { "id": "GI034", "name": "Gi Hex Nipple 2 PLUMBING MATERIALS" },
-    { "id": "GI035", "name": "Gi Hex Nipple 3/4 PLUMBING MATERIALS" },
-    { "id": "GI036", "name": "Gi Long Thread Nipple 1 PLUMBING MATERIALS" },
-    { "id": "GI037", "name": "Gi Long Thread Nipple 1/2 PLUMBING MATERIALS" },
-    { "id": "GI041", "name": "Gi Long Thread Nipple 3/4 PLUMBING MATERIALS" },
-    { "id": "GI043", "name": "Gi Plug 1/2 PLUMBING MATERIALS" },
-    { "id": "GI045", "name": "Gi Plug 3/4 PLUMBING MATERIALS" },
-    { "id": "GI065", "name": "Gi Red Socket 3/4x1/2 PLUMBING MATERIALS" },
-    { "id": "GI068", "name": "Gi Socket 1 PLUMBING MATERIALS" },
-    { "id": "GI073", "name": "Gi Socket 3/4 PLUMBING MATERIALS" },
-    { "id": "GI074", "name": "Gi Stand Pipe 1/2x1.5ft PLUMBING MATERIALS" },
-    { "id": "GI075", "name": "Gi Stand Pipe 1/2x1ft PLUMBING MATERIALS" },
-    { "id": "GI076", "name": "Gi Stand Pipe 1/2x2ft PLUMBING MATERIALS" },
-    { "id": "GI077", "name": "Gi Stand Pipe 1/2x3ft PLUMBING MATERIALS" },
-    { "id": "GI081", "name": "Gi Tee 1 PLUMBING MATERIALS" },
-    { "id": "GI082", "name": "Gi Tee 1/2 PLUMBING MATERIALS" },
-    { "id": "GI088", "name": "Gi Tee 3/4 PLUMBING MATERIALS" },
-    { "id": "GI089", "name": "Gi Union 1 PLUMBING MATERIALS" },
-    { "id": "GI090", "name": "Gi Union 1/2 PLUMBING MATERIALS" },
-    { "id": "GI092", "name": "Gi Union 11/4 PLUMBING MATERIALS" },
-    { "id": "GI095", "name": "Gi Union 3/4 PLUMBING MATERIALS" },
-    { "id": "GUT001", "name": "Gutter Angle PLUMBING MATERIALS" },
-    { "id": "GUT002", "name": "Gutter Bracket PLUMBING MATERIALS" },
-    { "id": "GUT012", "name": "Gutter Stop End PLUMBING MATERIALS" },
-    { "id": "HOS011", "name": "Hose Pipe Braided 1/2x30m PLUMBING MATERIALS" },
-    { "id": "HOS012", "name": "Hose Pipe Braided 1/2x50m PLUMBING MATERIALS" },
-    { "id": "HOS013", "name": "Hose Pipe Braided 1x30m PLUMBING MATERIALS" },
-    { "id": "HOS014", "name": "Hose Pipe Braided 1x50 PLUMBING MATERIALS" },
-    { "id": "HOS015", "name": "Hose Pipe Braided 3/4x30m PLUMBING MATERIALS" },
-    { "id": "HOS018", "name": "Hose Pipe Clear 1/2x60ft PLUMBING MATERIALS" },
-    { "id": "KIT006", "name": "Kitchen Sink D/B S/D PLUMBING MATERIALS" },
-    { "id": "KIT007", "name": "Kitchen Sink S/B S/D PLUMBING MATERIALS" },
-    { "id": "MAG001", "name": "Magic Connector 11/2 CHROME PLUMBING MATERIALS" },
-    { "id": "MAG002", "name": "Magic Connector 11/4 CHROME PLUMBING MATERIALS" },
-    { "id": "NON002", "name": "Non Return Valve 1 pegler PLUMBING MATERIALS" },
-    { "id": "NON003", "name": "Non Return Valve 1/2 Pegler PLUMBING MATERIALS" },
-    { "id": "NON006", "name": "Non Return Valve 3/4 Pegler PLUMBING MATERIALS" },
-    { "id": "PED001", "name": "Pedrallo Pump 0.5hp PLUMBING MATERIALS" },
-    { "id": "PED002", "name": "Pedrallo Pump 1hp PLUMBING MATERIALS" },
-    { "id": "PIL005", "name": "Pillar Tap Sprout Brimix PLUMBING MATERIALS" },
-    { "id": "POP005", "name": "Pop Up Waste Chrome 11/4 PLUMBING MATERIALS" },
-    { "id": "PPR003", "name": "Ppr Ball Cork 32mm PLUMBING MATERIALS" },
-    { "id": "PPR013", "name": "Ppr Double Elbow 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR014", "name": "Ppr Elbow 20mm PLUMBING MATERIALS" },
-    { "id": "PPR016", "name": "Ppr Elbow 25mm PLUMBING MATERIALS" },
-    { "id": "PPR018", "name": "Ppr Elbow 32mm PLUMBING MATERIALS" },
-    { "id": "PPR020", "name": "Ppr Elbow 40mm PLUMBING MATERIALS" },
-    { "id": "PPR021", "name": "Ppr Elbow 50mm PLUMBING MATERIALS" },
-    { "id": "PPR022", "name": "Ppr Elbow 63mm PLUMBING MATERIALS" },
-    { "id": "PPR024", "name": "Ppr F/Adapter 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR025", "name": "Ppr F/Adapter 25x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR026", "name": "Ppr F/Adapter 32x1 PLUMBING MATERIALS" },
-    { "id": "PPR027", "name": "Ppr F/Adapter 32x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR028", "name": "Ppr F/Adapter 40x11/4 PLUMBING MATERIALS" },
-    { "id": "PPR032", "name": "Ppr F/Elbow 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR033", "name": "Ppr F/Elbow 25x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR034", "name": "Ppr F/Elbow 32x1 PLUMBING MATERIALS" },
-    { "id": "PPR036", "name": "Ppr F/Elbow 32x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR037", "name": "Ppr F/Elbow 40x11/4 PLUMBING MATERIALS" },
-    { "id": "PPR038", "name": "Ppr F/Elbow 50x11/2 PLUMBING MATERIALS" },
-    { "id": "PPR040", "name": "Ppr F/Tee 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR041", "name": "Ppr F/Tee 25x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR042", "name": "Ppr F/Tee 32x1 PLUMBING MATERIALS" },
-    { "id": "PPR043", "name": "Ppr F/Tee 32x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR045", "name": "Ppr F/ Thread Union 1 PLUMBING MATERIALS" },
-    { "id": "PPR050", "name": "Ppr M/Adapter 20x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR051", "name": "Ppr M/Adapter 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR052", "name": "Ppr M/Adapter 25x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR054", "name": "Ppr M/Adapter 32x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR055", "name": "Ppr M/Adapter 32x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR056", "name": "Ppr M/Adapter 40x11/4 PLUMBING MATERIALS" },
-    { "id": "PPR057", "name": "Ppr M/Adapter 50x11/2 PLUMBING MATERIALS" },
-    { "id": "PPR058", "name": "Ppr M/Adapter 63x2 PLUMBING MATERIALS" },
-    { "id": "PPR060", "name": "Ppr M/Elbow 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR061", "name": "Ppr M/Elbow 25x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR062", "name": "Ppr M/Elbow 32x1 PLUMBING MATERIALS" },
-    { "id": "PPR063", "name": "Ppr M/Elbow 32x3/4 PLUMBING MATERIALS" },
-    { "id": "PPR064", "name": "Ppr M/Elbow 40x11/4 PLUMBING MATERIALS" },
-    { "id": "PPR065", "name": "Ppr M/Elbow 50x11/2 PLUMBING MATERIALS" },
-    { "id": "PPR067", "name": "Ppr M/Tee 25x1/2 PLUMBING MATERIALS" },
-    { "id": "PPR072", "name": "Ppr M/Thread Union 1 PLUMBING MATERIALS" },
-    { "id": "PPR074", "name": "Ppr M/Thread Union 3/4 PLUMBING MATERIALS" },
-    { "id": "PPR076", "name": "Ppr Overbend 25mm PLUMBING MATERIALS" },
-    { "id": "PPR084", "name": "Ppr Pipe Danco 20mm PLUMBING MATERIALS" },
-    { "id": "PPR086", "name": "Ppr Pipe Danco 32mm PLUMBING MATERIALS" },
-    { "id": "PPR087", "name": "Ppr Pipe Danco 40mm PLUMBING MATERIALS" },
-    { "id": "PPR088", "name": "Ppr Pipe Danco 50mm PLUMBING MATERIALS" },
-    { "id": "PPR096", "name": "Ppr Pipe Roll 20mm-DANCO PLUMBING MATERIALS" },
-    { "id": "PPR102", "name": "Ppr Pipe Roll Danco 40mm PLUMBING MATERIALS" },
-    { "id": "PPR103", "name": "Ppr Pipe Roll Danco 50mm PLUMBING MATERIALS" },
-    { "id": "PPR104", "name": "Ppr Pipe Roll Danco 63mm PLUMBING MATERIALS" },
-    { "id": "PPR125", "name": "Ppr Socket 20mm PLUMBING MATERIALS" },
-    { "id": "PPR126", "name": "Ppr Socket 25mm PLUMBING MATERIALS" },
-    { "id": "PPR127", "name": "Ppr Socket 32mm PLUMBING MATERIALS" },
-    { "id": "PPR128", "name": "Ppr Socket 40mm PLUMBING MATERIALS" },
-    { "id": "PPR130", "name": "Ppr Socket 63mm PLUMBING MATERIALS" },
-    { "id": "PPR135", "name": "Ppr socket 50mm PLUMBING MATERIALS" },
-    { "id": "PPR138", "name": "Ppr Tee 25mm PLUMBING MATERIALS" },
-    { "id": "PPR139", "name": "Ppr Tee 32mm PLUMBING MATERIALS" },
-    { "id": "PPR141", "name": "Ppr Tee 50mm PLUMBING MATERIALS" },
-    { "id": "PPR142", "name": "Ppr Tee 63mm PLUMBING MATERIALS" },
-    { "id": "PPR148", "name": "Ppr Union 25mm PLUMBING MATERIALS" },
-    { "id": "PPR149", "name": "Ppr Union 32mm PLUMBING MATERIALS" },
-    { "id": "PPR151", "name": "Ppr Union 50mm PLUMBING MATERIALS" },
-    { "id": "PPR152", "name": "Ppr Union 63mm PLUMBING MATERIALS" },
-    { "id": "PUM001", "name": "Pump Control Auto PLUMBING MATERIALS" },
-    { "id": "PVC003", "name": "Pvc Bend 11/4x45 PLUMBING MATERIALS" },
-    { "id": "PVC004", "name": "Pvc Bend 11/4x90 PLUMBING MATERIALS" },
-    { "id": "PVC005", "name": "Pvc Bend 2x45 PLUMBING MATERIALS" },
-    { "id": "PVC006", "name": "Pvc Bend 2x90 PLUMBING MATERIALS" },
-    { "id": "PVC007", "name": "Pvc Bend 3x45 PLUMBING MATERIALS" },
-    { "id": "PVC008", "name": "Pvc Bend 3x90 PLUMBING MATERIALS" },
-    { "id": "PVC009", "name": "Pvc Bend 4x45 PLUMBING MATERIALS" },
-    { "id": "PVC011", "name": "Pvc Bend 6x45 PLUMBING MATERIALS" },
-    { "id": "PVC012", "name": "Pvc Bend 6x90 PLUMBING MATERIALS" },
-    { "id": "PVC013", "name": "Pvc Bend 8x90 PLUMBING MATERIALS" },
-    { "id": "PVC014", "name": "Pvc Boss Connector 4x11/2 PLUMBING MATERIALS" },
-    { "id": "PVC015", "name": "Pvc Boss Connector 4x11/4 PLUMBING MATERIALS" },
-    { "id": "PVC016", "name": "Pvc Boss Connector 4x2 PLUMBING MATERIALS" },
-    { "id": "PVC017", "name": "Pvc Boss Connector 4x3 PLUMBING MATERIALS" },
-    { "id": "PVC019", "name": "Pvc Cross Tee 4 PLUMBING MATERIALS" },
-    { "id": "PVC020", "name": "Pvc Flex Bend 4 PLUMBING MATERIALS" },
-    { "id": "PVC022", "name": "Pvc Floor Trap 4way PLUMBING MATERIALS" },
-    { "id": "PVC023", "name": "Pvc Floor Trap 1Way PLUMBING MATERIALS" },
-    { "id": "PVC028", "name": "Pvc Gulley Trap 4 PLUMBING MATERIALS" },
-    { "id": "PVC031", "name": "Pvc Inspection Bend 4 PLUMBING MATERIALS" },
-    { "id": "PVC034", "name": "Pvc Plug 11/2 PLUMBING MATERIALS" },
-    { "id": "PVC036", "name": "Pvc Plug 2 PLUMBING MATERIALS" },
-    { "id": "PVC037", "name": "Pvc Plug 3 PLUMBING MATERIALS" },
-    { "id": "PVC038", "name": "Pvc Plug 4 PLUMBING MATERIALS" },
-    { "id": "PVC053", "name": "Pvc Reducer 11/2x11/4 PLUMBING MATERIALS" },
-    { "id": "PVC054", "name": "Pvc Reducer 2x11/2 PLUMBING MATERIALS" },
-    { "id": "PVC055", "name": "Pvc Reducer 2x11/4 PLUMBING MATERIALS" },
-    { "id": "PVC056", "name": "Pvc Reducer 3x2 PLUMBING MATERIALS" },
-    { "id": "PVC057", "name": "Pvc Reducer 4x2 PLUMBING MATERIALS" },
-    { "id": "PVC058", "name": "Pvc Reducer 4x3 PLUMBING MATERIALS" },
-    { "id": "PVC059", "name": "Pvc Reducer 6x4 PLUMBING MATERIALS" },
-    { "id": "PVC062", "name": "Pvc Socket 4 PLUMBING MATERIALS" },
-    { "id": "PVC064", "name": "Pvc Tee 11/2 PLUMBING MATERIALS" },
-    { "id": "PVC065", "name": "Pvc Tee 11/4 PLUMBING MATERIALS" },
-    { "id": "PVC066", "name": "Pvc Tee 2 PLUMBING MATERIALS" },
-    { "id": "PVC067", "name": "Pvc Tee 3 PLUMBING MATERIALS" },
-    { "id": "PVC068", "name": "Pvc Tee 4 PLUMBING MATERIALS" },
-    { "id": "PVC069", "name": "Pvc Tee 6 PLUMBING MATERIALS" },
-    { "id": "PVC072", "name": "Pvc Vent Core 2 PLUMBING MATERIALS" },
-    { "id": "PVC073", "name": "Pvc Vent Core 3 PLUMBING MATERIALS" },
-    { "id": "PVC074", "name": "Pvc Vent Core 4 PLUMBING MATERIALS" },
-    { "id": "PVC077", "name": "Pvc W/Pipe Grey 11/2 PLUMBING MATERIALS" },
-    { "id": "PVC079", "name": "Pvc W/Pipe Grey 2 PLUMBING MATERIALS" },
-    { "id": "PVC080", "name": "Pvc W/Pipe Grey 3 PLUMBING MATERIALS" },
-    { "id": "PVC081", "name": "Pvc W/Pipe Grey 4 PLUMBING MATERIALS" },
-    { "id": "PVC082", "name": "Pvc W/Pipe Grey 6 PLUMBING MATERIALS" },
-    { "id": "PVC083", "name": "Pvc W/Pipe Grey 8 pm PLUMBING MATERIALS" },
-    { "id": "PVC085", "name": "Pvc W/Pipe Metro 11/2 PLUMBING MATERIALS" },
-    { "id": "PVC086", "name": "Pvc W/Pipe Metro 2 PLUMBING MATERIALS" },
-    { "id": "PVC087", "name": "Pvc W/Pipe Metro 3 PLUMBING MATERIALS" },
-    { "id": "PVC088", "name": "Pvc W/Pipe Metro 4 PLUMBING MATERIALS" },
-    { "id": "PVC089", "name": "Pvc W/Pipe Metro 6 PLUMBING MATERIALS" },
-    { "id": "PVC093", "name": "Pvc W/Pipe Pm 4 PLUMBING MATERIALS" },
-    { "id": "PVC094", "name": "Pvc Y Tee 4 PLUMBING MATERIALS" },
-    { "id": "STA006", "name": "Stand Pipe 1.5ft PLUMBING MATERIALS" },
-    { "id": "TAP002", "name": "Tap Garden 3/4 PLUMBING MATERIALS" },
-    { "id": "TAP003", "name": "Tap Lockable 1/2 PLUMBING MATERIALS" },
-    { "id": "TAP004", "name": "Tap Lockable 3/4 PLUMBING MATERIALS" },
-    { "id": "THR001", "name": "Thread Tape Small PLUMBING MATERIALS" },
-    { "id": "THR002", "name": "Thread Tape Big PLUMBING MATERIALS" },
-    { "id": "TOW004", "name": "Towel Holder Ring-chrome PLUMBING MATERIALS" },
-    { "id": "WAL014", "name": "Wall Tap Short Neck PLUMBING MATERIALS" },
-    { "id": "WAL015", "name": "Wall Tap Long" },
-    { "id": "WAS003", "name": "Wash Hand Basin 18x12 PLUMBING MATERIALS" },
-    { "id": "WAT023", "name": "Waterpump Dayliff 1HP PLUMBING MATERIALS" }
-  ],
-  "STEEL": [],
-  "TILES & ACCESSORIES TILES &": [],
-  "TIMBER PRODUCTS TIMBER": [],
-  "TOOLS & MACHINERY TOOLS &": [],
-  "WELDING MATERIALS WELDING": [],
-  "WIRE PRODUCTS WIRE": [],
-  "ELECTRICALS": [
-    { "id": "INS004", "name": "Insulating Tape Yellow Big" },
-    { "id": "INS008", "name": "Insulating Tape White Big" },
-    { "id": "INS012", "name": "Instant Shower Ener 4t" },
-    { "id": "INS015", "name": "Instant Shower Lorenzeti" },
-    { "id": "INS018", "name": "Insulating Tape Green Big" },
-    { "id": "INS019", "name": "Insulating Tape Red Big" },
-    { "id": "LED004", "name": "Flourescent Led Tubes 2ft" },
-    { "id": "LED005", "name": "Flourescent Led Tubes 4ft" },
-    { "id": "MET006", "name": "Meter Box Powdered 13X13" },
-    { "id": "MIN001", "name": "Mini Trunking" },
-    { "id": "ADA002", "name": "Adaptor Box 150x150x70" },
-    { "id": "ADA003", "name": "Adaptor Box 200x200x80" },
-    { "id": "ADA005", "name": "Adaptor Box 255x200x80mm" },
-    { "id": "ADA006", "name": "Adaptor Box 300x250x120mm" },
-    { "id": "BAL010", "name": "Ball Fitting Bulb" },
-    { "id": "BLA017", "name": "Blanking Cover Single" },
-    { "id": "BUL001", "name": "Bulb Energy Saver Pin 7w" },
-    { "id": "BUL002", "name": "Bulb Energy Saver Pin 9w" },
-    { "id": "BUL003", "name": "Bulb Energy Saver Screw 7w" },
-    { "id": "BUL011", "name": "Bulb Holder Straight" },
-    { "id": "CAB002", "name": "Cable Clips 12mm" },
-    { "id": "CAB006", "name": "Cable Ties 10" },
-    { "id": "CAB007", "name": "Cable Ties 12" },
-    { "id": "CAB008", "name": "Cable Ties 14" },
-    { "id": "CAB009", "name": "Cable Ties 6" },
-    { "id": "CAB010", "name": "Cable Ties 8" },
-    { "id": "CIR008", "name": "Circular Box 3way 25mm" },
-    { "id": "CIR009", "name": "Circular Box 4way 20mm" },
-    { "id": "CON001", "name": "Conduit 20mm" },
-    { "id": "CON003", "name": "Conduit 32mm" },
-    { "id": "CON006", "name": "Conduit Metro 20mm" },
-    { "id": "CON007", "name": "Conduit Metro 25mm" },
-    { "id": "CON008", "name": "Conduit Metro 32mm" },
-    { "id": "CON010", "name": "Conduit Metro 50mm" },
-    { "id": "CON014", "name": "Consumer Unit 14way" },
-    { "id": "CON015", "name": "Consumer Unit 4way" },
-    { "id": "CON017", "name": "Consumer Unit 8way" },
-    { "id": "COO002", "name": "Cooker Unit Socket" },
-    { "id": "COU009", "name": "Couplers 20mm" },
-    { "id": "COU010", "name": "Couplers 25mm" },
-    { "id": "COU011", "name": "Couplers 32mm" },
-    { "id": "COU012", "name": "Couplers 38mm" },
-    { "id": "COU013", "name": "Couplers 50mm" },
-    { "id": "CUT001", "name": "Cut Out Double" },
-    { "id": "CUT002", "name": "Cut Out Single" },
-    { "id": "DOO001", "name": "Door Bell Ding Dong" },
-    { "id": "ELE001", "name": "Elec Bend 20mm" },
-    { "id": "ELE002", "name": "Elec Bend 25mm" },
-    { "id": "ELE003", "name": "Elec Bend 32mm" },
-    { "id": "ELE004", "name": "Elec Bend 38mm" },
-    { "id": "ELE005", "name": "Elec Bend 50mm" },
-    { "id": "ELE006", "name": "Elec Cable Flex 1.5mm mtrs" },
-    { "id": "ELE007", "name": "Elec Cable Flex 2.5mm mtrs" },
-    { "id": "ELE009", "name": "Elec Cable Single 1.5mm Black Roll" },
-    { "id": "ELE010", "name": "Elec Cable Single 1.5mm Green Roll" },
-    { "id": "ELE013", "name": "Elec Cable Single 2.5mm Red mtrs" },
-    { "id": "ELE015", "name": "Elec Cable Single 2.5mm Green Roll" },
-    { "id": "ELE018", "name": "Elec Cable Twin 1.5mm Roll Grey" },
-    { "id": "ELE019", "name": "Elec Cable Twin 2.5mm Roll" },
-    { "id": "FLO006", "name": "Flourescent Fitting 2ft" },
-    { "id": "FLO007", "name": "Flourescent Fitting 4ft" },
-    { "id": "FRI001", "name": "Fridge Guard" }
-  ],
-  "PLUMBING": [
-    { "id": "PVC001", "name": "PVC Pipe 1/2\"" },
-    { "id": "PVC002", "name": "PVC Pipe 3/4\"" },
-    { "id": "PVC003", "name": "PVC Pipe 1\"" },
-    { "id": "PVC004", "name": "PVC Pipe 1¼\"" },
-    { "id": "PVC005", "name": "PVC Pipe 1½\"" },
-    { "id": "PVC006", "name": "PVC Pipe 2\"" },
-    { "id": "PVC007", "name": "PVC Pipe 3\"" },
-    { "id": "PVC008", "name": "PVC Pipe 4\"" },
-    { "id": "PVC009", "name": "PVC Pipe 6\"" },
-    { "id": "ELB001", "name": "Elbow 1/2\"" },
-    { "id": "ELB002", "name": "Elbow 3/4\"" },
-    { "id": "ELB003", "name": "Elbow 1\"" },
-    { "id": "ELB004", "name": "Elbow 1¼\"" },
-    { "id": "ELB005", "name": "Elbow 1½\"" },
-    { "id": "ELB006", "name": "Elbow 2\"" },
-    { "id": "ELB007", "name": "Elbow 3\"" },
-    { "id": "ELB008", "name": "Elbow 4\"" },
-    { "id": "COU001", "name": "Coupling 1/2\"" },
-    { "id": "COU002", "name": "Coupling 3/4\"" },
-    { "id": "COU003", "name": "Coupling 1\"" },
-    { "id": "COU004", "name": "Coupling 1¼\"" },
-    { "id": "COU005", "name": "Coupling 1½\"" },
-    { "id": "COU006", "name": "Coupling 2\"" },
-    { "id": "COU007", "name": "Coupling 3\"" },
-    { "id": "COU008", "name": "Coupling 4\"" },
-    { "id": "TAP001", "name": "Bib Tap Plastic" },
-    { "id": "TAP002", "name": "Bib Tap Chrome" },
-    { "id": "TAP003", "name": "Stop Tap 1/2\"" },
-    { "id": "TAP004", "name": "Stop Tap 3/4\"" },
-    { "id": "TAP005", "name": "Stop Tap 1\"" },
-    { "id": "TAP006", "name": "Stop Cock Brass 1/2\"" },
-    { "id": "TAP007", "name": "Stop Cock Brass 3/4\"" },
-    { "id": "TAP008", "name": "Stop Cock Brass 1\"" }
+  "categories": [
+    {
+      "category_name": "AGRICULTURAL TO AGRICULTURAL TOOLS",
+      "products": [
+        {
+          "item_code": "AXE003",
+          "item_description": "Axe 3.5LB",
+          "price": ""
+        },
+        {
+          "item_code": "AXE004",
+          "item_description": "Axe 3LB",
+          "price": ""
+        },
+        {
+          "item_code": "FOR003",
+          "item_description": "Fork Jembe 2.5LB",
+          "price": ""
+        },
+        {
+          "item_code": "JEM002",
+          "item_description": "Jembe 2.5LB",
+          "price": ""
+        },
+        {
+          "item_code": "JEM003",
+          "item_description": "Jembe 2LB",
+          "price": ""
+        },
+        {
+          "item_code": "JEM004",
+          "item_description": "Jembe 3LB",
+          "price": ""
+        },
+        {
+          "item_code": "MAT001",
+          "item_description": "Mattock Combined",
+          "price": ""
+        },
+        {
+          "item_code": "PAN002",
+          "item_description": "Panga H/G",
+          "price": ""
+        },
+        {
+          "item_code": "SLA001",
+          "item_description": "Slasher",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "ELECTRICALS MATERIALS ELECTRICALS",
+      "products": [
+        {
+          "item_code": "INS004",
+          "item_description": "Insulating Tape Yellow Big",
+          "price": ""
+        },
+        {
+          "item_code": "INS008",
+          "item_description": "Insulating Tape White Big",
+          "price": ""
+        },
+        {
+          "item_code": "INS012",
+          "item_description": "Instant Shower Ener 4t",
+          "price": ""
+        },
+        {
+          "item_code": "INS015",
+          "item_description": "Instant Shower Lorenzeti",
+          "price": ""
+        },
+        {
+          "item_code": "INS018",
+          "item_description": "Insulating Tape Green Big",
+          "price": ""
+        },
+        {
+          "item_code": "INS019",
+          "item_description": "Insulating Tape Red Big",
+          "price": ""
+        },
+        {
+          "item_code": "LED004",
+          "item_description": "Flourescent Led Tubes 2ft",
+          "price": ""
+        },
+        {
+          "item_code": "LED005",
+          "item_description": "Fllourescent Led Tubes 4ft",
+          "price": ""
+        },
+        {
+          "item_code": "MET006",
+          "item_description": "Meter Box Powdered 13X13",
+          "price": ""
+        },
+        {
+          "item_code": "MIN001",
+          "item_description": "Mini Trunking",
+          "price": ""
+        },
+        {
+          "item_code": "ADA002",
+          "item_description": "Adaptor Box 150x150x70",
+          "price": ""
+        },
+        {
+          "item_code": "ADA003",
+          "item_description": "Adaptor Box 200x200x80",
+          "price": ""
+        },
+        {
+          "item_code": "ADA005",
+          "item_description": "Adaptor Box 255x200x80mm",
+          "price": ""
+        },
+        {
+          "item_code": "ADA006",
+          "item_description": "Adaptor Box 300x250x120mm",
+          "price": ""
+        },
+        {
+          "item_code": "BAL010",
+          "item_description": "Ball Fitting Bulb",
+          "price": ""
+        },
+        {
+          "item_code": "BLA017",
+          "item_description": "Blanking Cover Single",
+          "price": ""
+        },
+        {
+          "item_code": "BUL001",
+          "item_description": "Bulb Energy Saver Pin 7w",
+          "price": ""
+        },
+        {
+          "item_code": "BUL002",
+          "item_description": "Bulb Energy Saver Pin 9w",
+          "price": ""
+        },
+        {
+          "item_code": "BUL003",
+          "item_description": "Bulb Energy Saver Screw 7w",
+          "price": ""
+        },
+        {
+          "item_code": "BUL011",
+          "item_description": "Bulb Holder Straight",
+          "price": ""
+        },
+        {
+          "item_code": "CAB002",
+          "item_description": "Cable Clips 12mm",
+          "price": ""
+        },
+        {
+          "item_code": "CAB006",
+          "item_description": "Cable Ties 10",
+          "price": ""
+        },
+        {
+          "item_code": "CAB007",
+          "item_description": "Cable Ties 12",
+          "price": ""
+        },
+        {
+          "item_code": "CAB008",
+          "item_description": "Cable Ties 14",
+          "price": ""
+        },
+        {
+          "item_code": "CAB009",
+          "item_description": "Cable Ties 6",
+          "price": ""
+        },
+        {
+          "item_code": "CAB010",
+          "item_description": "Cable Ties 8",
+          "price": ""
+        },
+        {
+          "item_code": "CIR008",
+          "item_description": "Circular Box 3way 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "CIR009",
+          "item_description": "Circular Box 4way 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON001",
+          "item_description": "Conduit 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON003",
+          "item_description": "Conduit 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON006",
+          "item_description": "Conduit Metro 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON007",
+          "item_description": "Conduit Metro 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON008",
+          "item_description": "Conduit Metro 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON010",
+          "item_description": "Conduit Metro 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "CON014",
+          "item_description": "Consumer Unit 14way",
+          "price": ""
+        },
+        {
+          "item_code": "CON015",
+          "item_description": "Consumer Unit 4way",
+          "price": ""
+        },
+        {
+          "item_code": "CON017",
+          "item_description": "Consumer Unit 8way",
+          "price": ""
+        },
+        {
+          "item_code": "COO002",
+          "item_description": "Cooker Unit Socket",
+          "price": ""
+        },
+        {
+          "item_code": "COU009",
+          "item_description": "Couplers 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "COU010",
+          "item_description": "Couplers 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "COU011",
+          "item_description": "Couplers 32mm",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "ELECTRICALS ELECTRICALS MATERIALS",
+      "products": [
+        {
+          "item_code": "COU012",
+          "item_description": "Couplers 38mm",
+          "price": ""
+        },
+        {
+          "item_code": "COU013",
+          "item_description": "Couplers 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "CUT001",
+          "item_description": "Cut Out Double",
+          "price": ""
+        },
+        {
+          "item_code": "CUT002",
+          "item_description": "Cut Out Single",
+          "price": ""
+        },
+        {
+          "item_code": "DOO001",
+          "item_description": "Door Bell Ding Dong",
+          "price": ""
+        },
+        {
+          "item_code": "ELE001",
+          "item_description": "Elec Bend 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "ELE002",
+          "item_description": "Elec Bend 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "ELE003",
+          "item_description": "Elec Bend 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "ELE004",
+          "item_description": "Elec Bend 38mm",
+          "price": ""
+        },
+        {
+          "item_code": "ELE005",
+          "item_description": "Elec Bend 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "ELE006",
+          "item_description": "Elec Cable Flex 1.5mm mtrs",
+          "price": ""
+        },
+        {
+          "item_code": "ELE007",
+          "item_description": "Elec Cable Flex 2.5mm mtrs",
+          "price": ""
+        },
+        {
+          "item_code": "ELE009",
+          "item_description": "Elec Cable Single 1.5mm Black Roll",
+          "price": ""
+        },
+        {
+          "item_code": "ELE010",
+          "item_description": "Elec Cable Single 1.5mm Green Roll",
+          "price": ""
+        },
+        {
+          "item_code": "ELE013",
+          "item_description": "Elec Cable Single 2.5mm Red mtrs",
+          "price": ""
+        },
+        {
+          "item_code": "ELE015",
+          "item_description": "Elec Cable Single 2.5mm Green Roll",
+          "price": ""
+        },
+        {
+          "item_code": "ELE018",
+          "item_description": "Elec Cable Twin 1.5mm Roll Grey",
+          "price": ""
+        },
+        {
+          "item_code": "ELE019",
+          "item_description": "Elec Cable Twin 2.5mm Roll",
+          "price": ""
+        },
+        {
+          "item_code": "FLO006",
+          "item_description": "Flourescent Fitting 2ft",
+          "price": ""
+        },
+        {
+          "item_code": "FLO007",
+          "item_description": "Flourescent Fitting 4ft",
+          "price": ""
+        },
+        {
+          "item_code": "FRI001",
+          "item_description": "Fridge Guard",
+          "price": ""
+        },
+        {
+          "item_code": "ROU003",
+          "item_description": "Round Covers Black Large",
+          "price": ""
+        },
+        {
+          "item_code": "ROU004",
+          "item_description": "Round Covers Black Small",
+          "price": ""
+        },
+        {
+          "item_code": "ROU005",
+          "item_description": "Round Covers White Large",
+          "price": ""
+        },
+        {
+          "item_code": "ROU006",
+          "item_description": "Round Covers White Small",
+          "price": ""
+        },
+        {
+          "item_code": "SOC002",
+          "item_description": "Socket Single",
+          "price": ""
+        },
+        {
+          "item_code": "STR003",
+          "item_description": "Strip Connector 30a",
+          "price": ""
+        },
+        {
+          "item_code": "SW1003",
+          "item_description": "Switch 3 Gang",
+          "price": ""
+        },
+        {
+          "item_code": "SW1005",
+          "item_description": "Switch Box Double",
+          "price": ""
+        },
+        {
+          "item_code": "SW1006",
+          "item_description": "Switch Box Single",
+          "price": ""
+        },
+        {
+          "item_code": "TRO001",
+          "item_description": "Tronic Led Fitting 4ft",
+          "price": ""
+        },
+        {
+          "item_code": "TRO002",
+          "item_description": "Tronic Led Tube 4ft",
+          "price": ""
+        },
+        {
+          "item_code": "WAT001",
+          "item_description": "Water Heater Switch 20a",
+          "price": ""
+        },
+        {
+          "item_code": "MAC005",
+          "item_description": "MACHINE SCREW 2BA PKT",
+          "price": ""
+        },
+        {
+          "item_code": "CIR011",
+          "item_description": "Circular Box 1 way 20MM",
+          "price": ""
+        },
+        {
+          "item_code": "FLE014",
+          "item_description": "Flex conduit Roll 20mm black",
+          "price": ""
+        },
+        {
+          "item_code": "FLE015",
+          "item_description": "Flex conduit Roll 25mm black",
+          "price": ""
+        },
+        {
+          "item_code": "FLE016",
+          "item_description": "Flex conduit Roll 20mm White",
+          "price": ""
+        },
+        {
+          "item_code": "FLE017",
+          "item_description": "Flex conduit Roll 25mm white",
+          "price": ""
+        },
+        {
+          "item_code": "CON028",
+          "item_description": "Consumer Unit 12way",
+          "price": ""
+        },
+        {
+          "item_code": "ELE037",
+          "item_description": "ELEC CABLE FLEX 1.5MM ROLL",
+          "price": ""
+        },
+        {
+          "item_code": "ELE038",
+          "item_description": "ELEC CABLE FLEX 2.5MM ROLL",
+          "price": ""
+        },
+        {
+          "item_code": "TRO010",
+          "item_description": "Tronic Led Fitting 2ft",
+          "price": ""
+        },
+        {
+          "item_code": "TRO011",
+          "item_description": "Tronic Led Tube 2ft",
+          "price": ""
+        },
+        {
+          "item_code": "MCB002",
+          "item_description": "Mcb 20A S/Pole",
+          "price": ""
+        },
+        {
+          "item_code": "MCB003",
+          "item_description": "Mcb 32A S/Pole",
+          "price": ""
+        },
+        {
+          "item_code": "STR016",
+          "item_description": "Strip Connector 20a",
+          "price": ""
+        },
+        {
+          "item_code": "MCB006",
+          "item_description": "Mcb 63 A S/Pole",
+          "price": ""
+        },
+        {
+          "item_code": "MCB007",
+          "item_description": "Mcb 100 A D/Pole",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "GENERAL HARDWA GENERAL HARDWARE",
+      "products": [
+        {
+          "item_code": "EAR002",
+          "item_description": "Earthrod 5FT",
+          "price": ""
+        },
+        {
+          "item_code": "GRE003",
+          "item_description": "Green Oxide 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "SHE014",
+          "item_description": "Orion Shellac Heavy $1/2L$",
+          "price": ""
+        },
+        {
+          "item_code": "DRA026",
+          "item_description": "Drawer Rail Hydro 12",
+          "price": ""
+        },
+        {
+          "item_code": "SEL007",
+          "item_description": "Self Drilling Screws 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "SHE013",
+          "item_description": "Shelf Bracket 12x14",
+          "price": ""
+        },
+        {
+          "item_code": "SEL005",
+          "item_description": "Self Tapping 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "ROO015",
+          "item_description": "Roofing Bolt 2",
+          "price": ""
+        },
+        {
+          "item_code": "HEL002",
+          "item_description": "Helmets Blue",
+          "price": ""
+        },
+        {
+          "item_code": "HEL003",
+          "item_description": "Helmets white",
+          "price": ""
+        },
+        {
+          "item_code": "HEL004",
+          "item_description": "Helmets yellow",
+          "price": ""
+        },
+        {
+          "item_code": "SAN017",
+          "item_description": "Sand Paper Water Proof",
+          "price": ""
+        },
+        {
+          "item_code": "USP002",
+          "item_description": "Uspro Foam Economy 750ml",
+          "price": ""
+        },
+        {
+          "item_code": "LIM001",
+          "item_description": "Lime 25kg",
+          "price": ""
+        },
+        {
+          "item_code": "MAL003",
+          "item_description": "Malpha Hinges Hydraulic",
+          "price": ""
+        },
+        {
+          "item_code": "MAN007",
+          "item_description": "Manilla Roll 100m",
+          "price": ""
+        },
+        {
+          "item_code": "MAN008",
+          "item_description": "Manilla Roll 500m",
+          "price": ""
+        },
+        {
+          "item_code": "MAN009",
+          "item_description": "Manilla Rope 10mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAN010",
+          "item_description": "Manilla Rope 12mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAN013",
+          "item_description": "Manilla Rope 18ply",
+          "price": ""
+        },
+        {
+          "item_code": "MAN015",
+          "item_description": "Manilla Rope 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAN016",
+          "item_description": "Manilla Rope 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAN017",
+          "item_description": "Manilla Roll 1000m",
+          "price": ""
+        },
+        {
+          "item_code": "MDF012",
+          "item_description": "Mdf Screws 1 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "MDF013",
+          "item_description": "Mdf Screws 1/12 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "MDF014",
+          "item_description": "Mdf Screws 11/4 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "MDF015",
+          "item_description": "Mdf Screws 2 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "MDF017",
+          "item_description": "Mdf Screws 3 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "MDF018",
+          "item_description": "Mdf Screws 3/4 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "PAD001",
+          "item_description": "Padbolt 6",
+          "price": ""
+        },
+        {
+          "item_code": "PAD004",
+          "item_description": "Padbolt Jk Big",
+          "price": ""
+        },
+        {
+          "item_code": "RAW001",
+          "item_description": "Rawl Bolt M10",
+          "price": ""
+        },
+        {
+          "item_code": "RAW002",
+          "item_description": "Rawl Bolt M12",
+          "price": ""
+        },
+        {
+          "item_code": "RAW004",
+          "item_description": "Rawl Bolt M8",
+          "price": ""
+        },
+        {
+          "item_code": "RED001",
+          "item_description": "Red Oxide 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "REF001",
+          "item_description": "Reflector Vest",
+          "price": ""
+        },
+        {
+          "item_code": "ROO002",
+          "item_description": "Roofing Bolt 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "ROO004",
+          "item_description": "Roofing Bolt 2.5",
+          "price": ""
+        },
+        {
+          "item_code": "ROO008",
+          "item_description": "Roofing Insulation 3mm-Roll",
+          "price": ""
+        },
+        {
+          "item_code": "ROO009",
+          "item_description": "Roofing Insulation 5mm-Roll",
+          "price": ""
+        },
+        {
+          "item_code": "ROO010",
+          "item_description": "Roofing Screw 1",
+          "price": ""
+        },
+        {
+          "item_code": "SAC001",
+          "item_description": "Sacks",
+          "price": ""
+        },
+        {
+          "item_code": "SAD001",
+          "item_description": "Saddle Clips 1",
+          "price": ""
+        },
+        {
+          "item_code": "SAD003",
+          "item_description": "Saddle Clips 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "SAD004",
+          "item_description": "Saddle Clips 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "SAD006",
+          "item_description": "Saddle Clips 3",
+          "price": ""
+        },
+        {
+          "item_code": "SAD007",
+          "item_description": "Saddle Clips 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "SAD008",
+          "item_description": "Saddle Clips 4",
+          "price": ""
+        },
+        {
+          "item_code": "SAF001",
+          "item_description": "Safety Gloves",
+          "price": ""
+        },
+        {
+          "item_code": "SAN006",
+          "item_description": "Sand Paper P100 Roll",
+          "price": ""
+        },
+        {
+          "item_code": "SAN008",
+          "item_description": "Sand Paper P36 Roll",
+          "price": ""
+        },
+        {
+          "item_code": "SAN009",
+          "item_description": "Sand Paper P40 Roll",
+          "price": ""
+        },
+        {
+          "item_code": "SAN010",
+          "item_description": "Sand Paper P60 Roll",
+          "price": ""
+        },
+        {
+          "item_code": "SAN011",
+          "item_description": "Sand Paper P80 Roll",
+          "price": ""
+        },
+        {
+          "item_code": "SEL002",
+          "item_description": "Self Drilling Screws 1.5",
+          "price": ""
+        },
+        {
+          "item_code": "SEL003",
+          "item_description": "Self Drilling Screws 2",
+          "price": ""
+        },
+        {
+          "item_code": "SHE004",
+          "item_description": "Shelf Bracket 10x12",
+          "price": ""
+        },
+        {
+          "item_code": "SHE005",
+          "item_description": "Shelf Bracket 8x10",
+          "price": ""
+        },
+        {
+          "item_code": "SHE011",
+          "item_description": "Orion Shellac Light 1/21",
+          "price": ""
+        },
+        {
+          "item_code": "SHE012",
+          "item_description": "Orion Shellac Light 11",
+          "price": ""
+        },
+        {
+          "item_code": "STY002",
+          "item_description": "$1/2$ Styro Foam",
+          "price": ""
+        },
+        {
+          "item_code": "STY003",
+          "item_description": "Styro Foam $3/4$",
+          "price": ""
+        },
+        {
+          "item_code": "T S001",
+          "item_description": "T Stoppers",
+          "price": ""
+        },
+        {
+          "item_code": "TEE004",
+          "item_description": "Tee Hinges 4",
+          "price": ""
+        },
+        {
+          "item_code": "TEE005",
+          "item_description": "Tee Hinges 6",
+          "price": ""
+        },
+        {
+          "item_code": "TEE006",
+          "item_description": "Tee Hinges 8",
+          "price": ""
+        },
+        {
+          "item_code": "TOW010",
+          "item_description": "Tower Bolt Aluminium 3",
+          "price": ""
+        },
+        {
+          "item_code": "TOW011",
+          "item_description": "Tower Bolt Aluminium 4",
+          "price": ""
+        },
+        {
+          "item_code": "TOW012",
+          "item_description": "Tower Bolt Aluminium 6",
+          "price": ""
+        },
+        {
+          "item_code": "TOW014",
+          "item_description": "Tower Bolt Juakali",
+          "price": ""
+        },
+        {
+          "item_code": "UND002",
+          "item_description": "Undertaker 11",
+          "price": ""
+        },
+        {
+          "item_code": "UND003",
+          "item_description": "Undertaker 250ml",
+          "price": ""
+        },
+        {
+          "item_code": "WAL006",
+          "item_description": "Wall Pass",
+          "price": ""
+        },
+        {
+          "item_code": "WAL007",
+          "item_description": "Wall Plug 10mm",
+          "price": ""
+        },
+        {
+          "item_code": "WAL009",
+          "item_description": "Wall Plug 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "WAR001",
+          "item_description": "Warning Tape Red",
+          "price": ""
+        },
+        {
+          "item_code": "WIN001",
+          "item_description": "Window Fastener",
+          "price": ""
+        },
+        {
+          "item_code": "WIN004",
+          "item_description": "Window Fastener Kent",
+          "price": ""
+        },
+        {
+          "item_code": "WIN005",
+          "item_description": "Window Stay",
+          "price": ""
+        },
+        {
+          "item_code": "WIN007",
+          "item_description": "Window Stay Kent",
+          "price": ""
+        },
+        {
+          "item_code": "WOO018",
+          "item_description": "Wood preservative Green 201",
+          "price": ""
+        },
+        {
+          "item_code": "WOO019",
+          "item_description": "Wood preservative Green 51",
+          "price": ""
+        },
+        {
+          "item_code": "YEL001",
+          "item_description": "Yellow Oxide 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "BUC001",
+          "item_description": "Buckets",
+          "price": ""
+        },
+        {
+          "item_code": "CER002",
+          "item_description": "Cerrazo 11",
+          "price": ""
+        },
+        {
+          "item_code": "CER003",
+          "item_description": "Cerrazo 51",
+          "price": ""
+        },
+        {
+          "item_code": "CHR004",
+          "item_description": "Chrome Pipe 1",
+          "price": ""
+        },
+        {
+          "item_code": "CLE003",
+          "item_description": "Clear Tape",
+          "price": ""
+        },
+        {
+          "item_code": "CLE004",
+          "item_description": "Clear Tape Big",
+          "price": ""
+        },
+        {
+          "item_code": "COM001",
+          "item_description": "Complete Hinges 1",
+          "price": ""
+        },
+        {
+          "item_code": "COR010",
+          "item_description": "Gypsum Corner Tape",
+          "price": ""
+        },
+        {
+          "item_code": "DPC001",
+          "item_description": "Dpc",
+          "price": ""
+        },
+        {
+          "item_code": "DRA016",
+          "item_description": "Drawer Lock Evergood",
+          "price": ""
+        },
+        {
+          "item_code": "DRA022",
+          "item_description": "Drawer Rail Hydro 14",
+          "price": ""
+        },
+        {
+          "item_code": "DRA024",
+          "item_description": "Drawer Rail Hydro 18",
+          "price": ""
+        },
+        {
+          "item_code": "DUS001",
+          "item_description": "Dust Mask Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "DUS002",
+          "item_description": "Dust Mask Plastic",
+          "price": ""
+        },
+        {
+          "item_code": "EAR001",
+          "item_description": "Earthrod 4FT",
+          "price": ""
+        },
+        {
+          "item_code": "EME001",
+          "item_description": "Emery Cloth No. 0",
+          "price": ""
+        },
+        {
+          "item_code": "FLA007",
+          "item_description": "Flusher Plugs pcs",
+          "price": ""
+        },
+        {
+          "item_code": "FLA009",
+          "item_description": "Flashing Handle H/G",
+          "price": ""
+        },
+        {
+          "item_code": "GLO004",
+          "item_description": "Gloves Leather H/G",
+          "price": ""
+        },
+        {
+          "item_code": "GLO007",
+          "item_description": "Gloves Rubber H/G",
+          "price": ""
+        },
+        {
+          "item_code": "GRE002",
+          "item_description": "Grey Oxide Powder 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "GUM004",
+          "item_description": "Gumboot No 6",
+          "price": ""
+        },
+        {
+          "item_code": "GYP011",
+          "item_description": "Gypsum Channel",
+          "price": ""
+        },
+        {
+          "item_code": "GYP016",
+          "item_description": "Gypsum Fibre Tape",
+          "price": ""
+        },
+        {
+          "item_code": "GYP025",
+          "item_description": "Gypsum Screws 1 *1000pcs",
+          "price": ""
+        },
+        {
+          "item_code": "GYP026",
+          "item_description": "Gypsum Screws 1 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "GYP027",
+          "item_description": "Gypsum Screws 11/2 Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "GYP028",
+          "item_description": "Gypsum Screws 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "H.C001",
+          "item_description": "H.C.L 11",
+          "price": ""
+        },
+        {
+          "item_code": "HAS005",
+          "item_description": "Hasp Juakali",
+          "price": ""
+        },
+        {
+          "item_code": "HEL001",
+          "item_description": "Helmets Red",
+          "price": ""
+        },
+        {
+          "item_code": "HIN002",
+          "item_description": "Hinges 1.5",
+          "price": ""
+        },
+        {
+          "item_code": "HIN003",
+          "item_description": "Hinges 2",
+          "price": ""
+        },
+        {
+          "item_code": "HIN004",
+          "item_description": "Hinges 2.5",
+          "price": ""
+        },
+        {
+          "item_code": "HIN005",
+          "item_description": "Hinges 3",
+          "price": ""
+        },
+        {
+          "item_code": "HIN006",
+          "item_description": "Hinges 4",
+          "price": ""
+        },
+        {
+          "item_code": "HIN015",
+          "item_description": "Hinges Oxford Brass",
+          "price": ""
+        },
+        {
+          "item_code": "HIN016",
+          "item_description": "Hinges Oxford Silver",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "GLASSWARE GLASSWARE",
+      "products": [
+        {
+          "item_code": "PUT004",
+          "item_description": "Putty Premium 40kg",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "GLUES & SEALANTS GLUES & SEALANTS",
+      "products": [
+        {
+          "item_code": "BOD007",
+          "item_description": "Bodyfiller $1/2kg$",
+          "price": ""
+        },
+        {
+          "item_code": "BOD008",
+          "item_description": "Bodyfiller 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "BOD009",
+          "item_description": "Body filler 2.5kg",
+          "price": ""
+        },
+        {
+          "item_code": "CON021",
+          "item_description": "Conta 1/2kg",
+          "price": ""
+        },
+        {
+          "item_code": "CON022",
+          "item_description": "Conta 1/4kg",
+          "price": ""
+        },
+        {
+          "item_code": "CON023",
+          "item_description": "Conta 100ml",
+          "price": ""
+        },
+        {
+          "item_code": "CON024",
+          "item_description": "Conta 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "CON026",
+          "item_description": "Conta 50ml",
+          "price": ""
+        },
+        {
+          "item_code": "COR001",
+          "item_description": "Cornace Super Fix 2kg",
+          "price": ""
+        },
+        {
+          "item_code": "D/S004",
+          "item_description": "D/Sanding Sealer 41",
+          "price": ""
+        },
+        {
+          "item_code": "FEV003",
+          "item_description": "Fevicol Pur 150g",
+          "price": ""
+        },
+        {
+          "item_code": "FEV004",
+          "item_description": "Fevicol Pur 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "FEV005",
+          "item_description": "Fevicol Pur 500gm",
+          "price": ""
+        },
+        {
+          "item_code": "FEV006",
+          "item_description": "Fevicol Pur 70gm",
+          "price": ""
+        },
+        {
+          "item_code": "LOR002",
+          "item_description": "Lordex 300g",
+          "price": ""
+        },
+        {
+          "item_code": "MET009",
+          "item_description": "Metro Glue 250gms",
+          "price": ""
+        },
+        {
+          "item_code": "PON001",
+          "item_description": "Ponal Glue 1/21",
+          "price": ""
+        },
+        {
+          "item_code": "PON002",
+          "item_description": "Ponal Glue 1/41",
+          "price": ""
+        },
+        {
+          "item_code": "PON005",
+          "item_description": "Ponal Glue 41",
+          "price": ""
+        },
+        {
+          "item_code": "SIL002",
+          "item_description": "Silicon Gun Sausage",
+          "price": ""
+        },
+        {
+          "item_code": "SIL010",
+          "item_description": "Silicon Sausage Clear",
+          "price": ""
+        },
+        {
+          "item_code": "SIL011",
+          "item_description": "Silicon Sausage White",
+          "price": ""
+        },
+        {
+          "item_code": "SIL013",
+          "item_description": "Silicon Tube Black",
+          "price": ""
+        },
+        {
+          "item_code": "STR005",
+          "item_description": "Stronghold Parquet Crown 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "STR006",
+          "item_description": "Stronghold Parquet Crown 20k",
+          "price": ""
+        },
+        {
+          "item_code": "STR008",
+          "item_description": "Stronghold Parquet Crown 4kg",
+          "price": ""
+        },
+        {
+          "item_code": "STR009",
+          "item_description": "Stronghold Parquet Dura 4kg",
+          "price": ""
+        },
+        {
+          "item_code": "STR010",
+          "item_description": "Stronghold T/Adhesive 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "STR011",
+          "item_description": "Stronghold T/Adhesive 25k",
+          "price": ""
+        },
+        {
+          "item_code": "STR012",
+          "item_description": "Stronghold T/Adhesive 4kg",
+          "price": ""
+        },
+        {
+          "item_code": "SUP002",
+          "item_description": "Super Glue Small",
+          "price": ""
+        },
+        {
+          "item_code": "TAN001",
+          "item_description": "Tangit 1000ml",
+          "price": ""
+        },
+        {
+          "item_code": "TAN002",
+          "item_description": "Tangit 100ml",
+          "price": ""
+        },
+        {
+          "item_code": "TAN005",
+          "item_description": "Tangit 50ml",
+          "price": ""
+        },
+        {
+          "item_code": "WOO006",
+          "item_description": "Wood Filla Mahogany",
+          "price": ""
+        },
+        {
+          "item_code": "WOO007",
+          "item_description": "Wood Filla Pine",
+          "price": ""
+        },
+        {
+          "item_code": "WD4003",
+          "item_description": "Wd40 500ml",
+          "price": ""
+        },
+        {
+          "item_code": "SIL017",
+          "item_description": "Silicon Sausage Black",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "IRON SHEETS & PLA IRON SHEETS & PLATES",
+      "products": [
+        {
+          "item_code": "RSB001",
+          "item_description": "R/S Box charcoal grey 2m",
+          "price": ""
+        },
+        {
+          "item_code": "PLA001",
+          "item_description": "Plain Sheet Roll 30g",
+          "price": ""
+        },
+        {
+          "item_code": "R/S001",
+          "item_description": "R/S Box Charcoal Grey 2.5m",
+          "price": ""
+        },
+        {
+          "item_code": "R/S002",
+          "item_description": "R/S Box Charcoal Grey 3m",
+          "price": ""
+        },
+        {
+          "item_code": "R/S003",
+          "item_description": "$R/S$ Box Clear 2.5m",
+          "price": ""
+        },
+        {
+          "item_code": "R/S004",
+          "item_description": "$R/S$ Box Clear 2m",
+          "price": ""
+        },
+        {
+          "item_code": "R/S005",
+          "item_description": "$R/S$ Box Clear 3m",
+          "price": ""
+        },
+        {
+          "item_code": "R/S015",
+          "item_description": "$R/S$ Maisha 2.5x32g",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "JUA KALI PRODUCT JUA KALI PRODUCTS",
+      "products": [
+        {
+          "item_code": "BUT005",
+          "item_description": "$3/4$ Butterfly Bush",
+          "price": ""
+        },
+        {
+          "item_code": "BUS002",
+          "item_description": "Bush JK $1/2^{\\prime}$",
+          "price": ""
+        },
+        {
+          "item_code": "BUS003",
+          "item_description": "Bush JK $11/2^{\\prime\\prime}$",
+          "price": ""
+        },
+        {
+          "item_code": "BUS007",
+          "item_description": "Bush Ball 11/2x4",
+          "price": ""
+        },
+        {
+          "item_code": "BUS008",
+          "item_description": "Bush Ball 11/4x4",
+          "price": ""
+        },
+        {
+          "item_code": "BUS009",
+          "item_description": "Bush Ball 1x4",
+          "price": ""
+        },
+        {
+          "item_code": "BUS010",
+          "item_description": "Bush Ball 3/4x4",
+          "price": ""
+        },
+        {
+          "item_code": "BUS015",
+          "item_description": "Bush Smooth 1",
+          "price": ""
+        },
+        {
+          "item_code": "BUS016",
+          "item_description": "Bush Smooth $11/2$",
+          "price": ""
+        },
+        {
+          "item_code": "BUS017",
+          "item_description": "Bush Smooth 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "BUS018",
+          "item_description": "Bush Smooth 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "BUT001",
+          "item_description": "Butterfly Bush 1'",
+          "price": ""
+        },
+        {
+          "item_code": "CEN001",
+          "item_description": "Center Stopper",
+          "price": ""
+        },
+        {
+          "item_code": "CLA001",
+          "item_description": "Claw Bar 4ft",
+          "price": ""
+        },
+        {
+          "item_code": "CLA002",
+          "item_description": "Claw Bar 5ft",
+          "price": ""
+        },
+        {
+          "item_code": "CLA003",
+          "item_description": "Claw Bar 6ft",
+          "price": ""
+        },
+        {
+          "item_code": "DOW001",
+          "item_description": "Down Stoppers",
+          "price": ""
+        },
+        {
+          "item_code": "MAS016",
+          "item_description": "Mason Chisel Flat",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "LOCKS & ACCESSO LOCKS & ACCESSORIES",
+      "products": [
+        {
+          "item_code": "LOC002",
+          "item_description": "Lock Flyglobe Gold",
+          "price": ""
+        },
+        {
+          "item_code": "LOC003",
+          "item_description": "Lock Flyglobe Silver",
+          "price": ""
+        },
+        {
+          "item_code": "LOC004",
+          "item_description": "Lock Moment",
+          "price": ""
+        },
+        {
+          "item_code": "LOC006",
+          "item_description": "Lock Union 2lever Silver",
+          "price": ""
+        },
+        {
+          "item_code": "LOC010",
+          "item_description": "Lock Union Dead 3lever",
+          "price": ""
+        },
+        {
+          "item_code": "LOC011",
+          "item_description": "Lock Wista W-20188",
+          "price": ""
+        },
+        {
+          "item_code": "PAD009",
+          "item_description": "Padlock Mindy 70mm",
+          "price": ""
+        },
+        {
+          "item_code": "PAD016",
+          "item_description": "Padlock Tri Circle 262",
+          "price": ""
+        },
+        {
+          "item_code": "PAD018",
+          "item_description": "Padlock Tri Circle 264",
+          "price": ""
+        },
+        {
+          "item_code": "PAD019",
+          "item_description": "Padlock Tri Circle 265",
+          "price": ""
+        },
+        {
+          "item_code": "PAD020",
+          "item_description": "Padlock Tri Circle 266",
+          "price": ""
+        },
+        {
+          "item_code": "YAL001",
+          "item_description": "Yale Dimple keyPadlock",
+          "price": ""
+        },
+        {
+          "item_code": "LOC012",
+          "item_description": "Lock Union 2lever brass/gold",
+          "price": ""
+        },
+        {
+          "item_code": "LOC013",
+          "item_description": "Lock Wista W-23615",
+          "price": ""
+        },
+        {
+          "item_code": "LOC015",
+          "item_description": "Lock Wista W-20252",
+          "price": ""
+        },
+        {
+          "item_code": "PAD021",
+          "item_description": "Padlock Mindy 60mm",
+          "price": ""
+        },
+        {
+          "item_code": "PAD022",
+          "item_description": "Padlock Mindy 50mm",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "MORTAR AND ADHE MORTAR AND ADHESIVES",
+      "products": [
+        {
+          "item_code": "COA001",
+          "item_description": "Coast Calcium",
+          "price": ""
+        },
+        {
+          "item_code": "DR 002",
+          "item_description": "Dr Fixit Gapseal Tape 10m",
+          "price": ""
+        },
+        {
+          "item_code": "DR 004",
+          "item_description": "Dr Fixit Pidiproof 11",
+          "price": ""
+        },
+        {
+          "item_code": "DR 005",
+          "item_description": "Dr Fixit Pidiproof 201",
+          "price": ""
+        },
+        {
+          "item_code": "DR 006",
+          "item_description": "Dr Fixit Pidiproof 51",
+          "price": ""
+        },
+        {
+          "item_code": "DR 007",
+          "item_description": "Dr Fixit Superlatex 11",
+          "price": ""
+        },
+        {
+          "item_code": "DR 008",
+          "item_description": "Dr Fixit Superlatex 5kg",
+          "price": ""
+        },
+        {
+          "item_code": "DR 009",
+          "item_description": "Dr Fixit Sureseal 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "DR 010",
+          "item_description": "Dr Fixit Sureseal 5kg",
+          "price": ""
+        },
+        {
+          "item_code": "DR 012",
+          "item_description": "Dr Fixit Waterproof Powder",
+          "price": ""
+        },
+        {
+          "item_code": "GRO001",
+          "item_description": "Grout 1kg Beige",
+          "price": ""
+        },
+        {
+          "item_code": "GRO002",
+          "item_description": "Grout 1kg Cream",
+          "price": ""
+        },
+        {
+          "item_code": "GRO003",
+          "item_description": "Grout 1kg Grey",
+          "price": ""
+        },
+        {
+          "item_code": "GRO004",
+          "item_description": "Grout 1kg White",
+          "price": ""
+        },
+        {
+          "item_code": "SAH001",
+          "item_description": "Sahara Filler",
+          "price": ""
+        },
+        {
+          "item_code": "TIL007",
+          "item_description": "Tile Adhesive Mzito Probond",
+          "price": ""
+        },
+        {
+          "item_code": "WAT010",
+          "item_description": "Waterproof Mzito Powder",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "NAILS NAILS",
+      "products": [
+        {
+          "item_code": "ΝΑΙ011",
+          "item_description": "Nails Bag 2",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ013",
+          "item_description": "Nails Bag 3",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ015",
+          "item_description": "Nails Bag 5",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ016",
+          "item_description": "Nails Bag 6",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ017",
+          "item_description": "Nails Bag Ceiling 1",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ018",
+          "item_description": "Nails Bag Ceiling 1.5",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ019",
+          "item_description": "Nails Bag Panel Pins 1",
+          "price": ""
+        },
+        {
+          "item_code": "ΝΑΙ020",
+          "item_description": "Nails Bag Panel Pins 1.5",
+          "price": ""
+        },
+        {
+          "item_code": "SHO002",
+          "item_description": "Shoe Tacks 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "SHO003",
+          "item_description": "Shoe Tacks 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "STE004",
+          "item_description": "Steel Nails Pkt 1.5",
+          "price": ""
+        },
+        {
+          "item_code": "STE005",
+          "item_description": "Steel Nails Pkt 2",
+          "price": ""
+        },
+        {
+          "item_code": "STE006",
+          "item_description": "Steel Nails Pkt 2.5",
+          "price": ""
+        },
+        {
+          "item_code": "STE007",
+          "item_description": "Steel Nails Pkt 3",
+          "price": ""
+        },
+        {
+          "item_code": "STE008",
+          "item_description": "Steel Nails Pkt 4",
+          "price": ""
+        },
+        {
+          "item_code": "NA1032",
+          "item_description": "Nails Polished Bag 1\"\"",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "PAINT ACCESSORIE PAINT ACCESSORIES",
+      "products": [
+        {
+          "item_code": "SPR019",
+          "item_description": "Spray Paint Grey MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR020",
+          "item_description": "Spray Paint Grey",
+          "price": ""
+        },
+        {
+          "item_code": "SPR021",
+          "item_description": "Spray Paint Bright Gold",
+          "price": ""
+        },
+        {
+          "item_code": "SPR022",
+          "item_description": "Spray Paint Yellow MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR024",
+          "item_description": "Spray Paint Asmaco-Silver",
+          "price": ""
+        },
+        {
+          "item_code": "BLA001",
+          "item_description": "Black Oxide",
+          "price": ""
+        },
+        {
+          "item_code": "MAS002",
+          "item_description": "Masking Tape 1.5",
+          "price": ""
+        },
+        {
+          "item_code": "MAS006",
+          "item_description": "Masking Tape Big 1",
+          "price": ""
+        },
+        {
+          "item_code": "MAS008",
+          "item_description": "Masking Tape Big 2",
+          "price": ""
+        },
+        {
+          "item_code": "MAS009",
+          "item_description": "Masking Tape Big 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "ORI001",
+          "item_description": "Orion Clear Varnish 1/21",
+          "price": ""
+        },
+        {
+          "item_code": "ORI002",
+          "item_description": "Orion Clear Varnish 11",
+          "price": ""
+        },
+        {
+          "item_code": "PA1002",
+          "item_description": "Paint Roller 4",
+          "price": ""
+        },
+        {
+          "item_code": "PA1004",
+          "item_description": "Paint Roller 9",
+          "price": ""
+        },
+        {
+          "item_code": "SPR003",
+          "item_description": "Spray Paint Chrome MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR004",
+          "item_description": "Spray Paint Black MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR005",
+          "item_description": "Spray Paint White- MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR006",
+          "item_description": "Spray Paint Gold MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR008",
+          "item_description": "Spray Paint Red-MAXIMA",
+          "price": ""
+        },
+        {
+          "item_code": "SPR010",
+          "item_description": "Spray Paint Chrome",
+          "price": ""
+        },
+        {
+          "item_code": "SPR011",
+          "item_description": "Spray Paint Gold",
+          "price": ""
+        },
+        {
+          "item_code": "STA009",
+          "item_description": "Standard Thinner Crown 11",
+          "price": ""
+        },
+        {
+          "item_code": "STA011",
+          "item_description": "Standard Thinner Glory 11",
+          "price": ""
+        },
+        {
+          "item_code": "STA012",
+          "item_description": "Standard Thinner Glory 51",
+          "price": ""
+        },
+        {
+          "item_code": "TUR001",
+          "item_description": "Turpentine Glory 11",
+          "price": ""
+        },
+        {
+          "item_code": "TUR002",
+          "item_description": "Turpentine Glory 51",
+          "price": ""
+        },
+        {
+          "item_code": "WH1005",
+          "item_description": "White Spirit 51 Glory",
+          "price": ""
+        },
+        {
+          "item_code": "WH1006",
+          "item_description": "White Spirit Crown 11",
+          "price": ""
+        },
+        {
+          "item_code": "WH1008",
+          "item_description": "White Spirit Glory 11",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "PAINTS PAINTS",
+      "products": [
+        {
+          "item_code": "BAS006",
+          "item_description": "Basco Red Oxide 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS019",
+          "item_description": "Base Sg1 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS020",
+          "item_description": "Base Sg1 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS021",
+          "item_description": "Base Sg2 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS022",
+          "item_description": "Base Sg2 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS023",
+          "item_description": "Base Sg3 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS024",
+          "item_description": "Base Sg3 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS025",
+          "item_description": "Base Sg4 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS026",
+          "item_description": "Base Sg4 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS027",
+          "item_description": "Base Sg5 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS028",
+          "item_description": "Base Sg5 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS029",
+          "item_description": "Base Sg6 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS030",
+          "item_description": "Base Sg6 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS034",
+          "item_description": "Base Silicon 2 Ext 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS035",
+          "item_description": "Base Silicon Ext 1 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS036",
+          "item_description": "Base Silicon Ext 2 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS041",
+          "item_description": "Base Vm1 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS042",
+          "item_description": "Base Vm1 201",
+          "price": ""
+        },
+        {
+          "item_code": "BAS043",
+          "item_description": "Base Vm1 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS044",
+          "item_description": "Base Vm2 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS046",
+          "item_description": "Base Vm2 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS047",
+          "item_description": "Base Vm3 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS049",
+          "item_description": "Base Vm4 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS051",
+          "item_description": "Base Vm5 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS052",
+          "item_description": "Base Vm5 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS053",
+          "item_description": "Base Vmylw 11",
+          "price": ""
+        },
+        {
+          "item_code": "BAS056",
+          "item_description": "Base Vs1 201",
+          "price": ""
+        },
+        {
+          "item_code": "BAS057",
+          "item_description": "Base Vs1 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS059",
+          "item_description": "Base Vs2 201",
+          "price": ""
+        },
+        {
+          "item_code": "BAS060",
+          "item_description": "Base Vs2 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS061",
+          "item_description": "Base Vs3 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/004",
+          "item_description": "C/ Transeal 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E002",
+          "item_description": "C/S/G Aqua Glow BW /41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E006",
+          "item_description": "C/E Covermatt White 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E007",
+          "item_description": "C/E Matt Accent Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E008",
+          "item_description": "C/E Matt Accent Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E009",
+          "item_description": "C/E Matt Accent Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E014",
+          "item_description": "C/E Matt Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E015",
+          "item_description": "C/E Matt Deep Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E016",
+          "item_description": "C/E Matt Deep Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E017",
+          "item_description": "C/E Matt Deep Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E018",
+          "item_description": "C/E Matt Pastel Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E019",
+          "item_description": "C/E Matt Pastel Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E025",
+          "item_description": "C/E Silicon Accent Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E026",
+          "item_description": "C/E Silicon Accent Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E029",
+          "item_description": "C/E Silicon BWhite /201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E031",
+          "item_description": "C/E Silicon Black 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E033",
+          "item_description": "C/E Silicon Deep Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E034",
+          "item_description": "C/E Silicon Deep Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E035",
+          "item_description": "C/E Silicon Deep Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E036",
+          "item_description": "C/E Silicon Pastel Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E037",
+          "item_description": "C/E Silicon Pastel Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E040",
+          "item_description": "C/E Silk Accent Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E041",
+          "item_description": "C/E Silk Accent Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E042",
+          "item_description": "C/E Silk Accent Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E043",
+          "item_description": "C/E Silk Brill White 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E045",
+          "item_description": "C/E Silk Deep Base 201",
+          "price": ""
+        },
+        {
+          "item_code": "C/E046",
+          "item_description": "C/E Silk Deep Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/E047",
+          "item_description": "C/E Silk Pastel Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/E049",
+          "item_description": "C/E Silk Pastel Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S010",
+          "item_description": "C/S/G Black BITUMINOUS 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S012",
+          "item_description": "C/S/G C/Varnish H/G 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S014",
+          "item_description": "C/S/G Clear Varnish Matt 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S016",
+          "item_description": "C/S/G Clear Varnish Nc 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S017",
+          "item_description": "C/S/G Deep Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S018",
+          "item_description": "C/S/G Deep Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S020",
+          "item_description": "C/SG /Eggshell Accent Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S021",
+          "item_description": "C/SG /Eggshell Accent Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S022",
+          "item_description": "C/S/G Eggshell Black 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S023",
+          "item_description": "C/SG /Eggshell Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S024",
+          "item_description": "C/SG /Eggshell Deep Base 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S025",
+          "item_description": "C/SG /Eggshell Deep Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S026",
+          "item_description": "C/S/G Eggshell Pastel 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S027",
+          "item_description": "C/S/G Eggshell Pastel 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S031",
+          "item_description": "C/S/G Floor Paint Red Oxide 4L",
+          "price": ""
+        },
+        {
+          "item_code": "C/S037",
+          "item_description": "C/S/G Clear Varnish Matt 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S038",
+          "item_description": "C/S/G Matt Finish Black 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S039",
+          "item_description": "C/S/G Matt Finish Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S047",
+          "item_description": "C/S/G Pastel Base 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S050",
+          "item_description": "C/S/G Roadline Yellow 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S053",
+          "item_description": "C/S/G Roof Green 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S057",
+          "item_description": "C/S/G Roofmaster Clear Base",
+          "price": ""
+        },
+        {
+          "item_code": "C/S058",
+          "item_description": "C/S/G Ruff & Tuff 301-Normal",
+          "price": ""
+        },
+        {
+          "item_code": "C/S068",
+          "item_description": "C/S/G Thinner For Roadline 5L",
+          "price": ""
+        },
+        {
+          "item_code": "C/S071",
+          "item_description": "C/S/G Twopack V/Gloss 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S074",
+          "item_description": "C/S/G Twopack V/Matt 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S076",
+          "item_description": "C/S/G Undercoat 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S078",
+          "item_description": "C/S/G Vesta Black 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S079",
+          "item_description": "C/S/G Vesta Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S080",
+          "item_description": "C/S/G Vesta Floor Red 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S081",
+          "item_description": "C/S/G Vesta Grey Oxide 11-primer",
+          "price": ""
+        },
+        {
+          "item_code": "C/S083",
+          "item_description": "C/S/G Vesta Red Oxide 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S084",
+          "item_description": "C/S/G Vesta Red Oxide 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S086",
+          "item_description": "C/S/G Vesta White 11",
+          "price": ""
+        },
+        {
+          "item_code": "C/S087",
+          "item_description": "C/S/G Vesta White 41",
+          "price": ""
+        },
+        {
+          "item_code": "C/S089",
+          "item_description": "C/S/G Wood Primer White 41",
+          "price": ""
+        },
+        {
+          "item_code": "CRO002",
+          "item_description": "Crown Colorant C",
+          "price": ""
+        },
+        {
+          "item_code": "CRO003",
+          "item_description": "Crown Colorant D",
+          "price": ""
+        },
+        {
+          "item_code": "CRO004",
+          "item_description": "Crown Colorant E",
+          "price": ""
+        },
+        {
+          "item_code": "CRO005",
+          "item_description": "Crown Colorant Ext Orange Us",
+          "price": ""
+        },
+        {
+          "item_code": "CRO006",
+          "item_description": "Crown Colorant High Yellow-QS",
+          "price": ""
+        },
+        {
+          "item_code": "CRO007",
+          "item_description": "Crown Colorant Kx",
+          "price": ""
+        },
+        {
+          "item_code": "CRO008",
+          "item_description": "Crown Colorant M/Yellow- T",
+          "price": ""
+        },
+        {
+          "item_code": "CRO009",
+          "item_description": "Crown Colorant R",
+          "price": ""
+        },
+        {
+          "item_code": "CRO010",
+          "item_description": "Crown Colorant Raw Umber-L",
+          "price": ""
+        },
+        {
+          "item_code": "CRO011",
+          "item_description": "Crown Colorant Red Oxide-F",
+          "price": ""
+        },
+        {
+          "item_code": "CRO012",
+          "item_description": "Crown Colorant Rn",
+          "price": ""
+        },
+        {
+          "item_code": "CRO014",
+          "item_description": "Crown Colorant Violet-Zs",
+          "price": ""
+        },
+        {
+          "item_code": "CRO015",
+          "item_description": "Crown Colorant Yellow An",
+          "price": ""
+        },
+        {
+          "item_code": "CRO024",
+          "item_description": "Crown Wallputty 25kg",
+          "price": ""
+        },
+        {
+          "item_code": "D/E001",
+          "item_description": "D/E Matt Black 11",
+          "price": ""
+        },
+        {
+          "item_code": "D/E002",
+          "item_description": "D/E Matt Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "D/E010",
+          "item_description": "D/E Sf Brilliant White 11",
+          "price": ""
+        },
+        {
+          "item_code": "D/E015",
+          "item_description": "D/E Silk White 41",
+          "price": ""
+        },
+        {
+          "item_code": "D/G002",
+          "item_description": "D/G Black 11",
+          "price": ""
+        },
+        {
+          "item_code": "D/G003",
+          "item_description": "D/G Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "D/G005",
+          "item_description": "D/G Clear Gloss Varnish 41",
+          "price": ""
+        },
+        {
+          "item_code": "D/G007",
+          "item_description": "D/G Matt Primer Grey 41",
+          "price": ""
+        },
+        {
+          "item_code": "BAS073",
+          "item_description": "Base Silicon Ext 3 4 LI",
+          "price": ""
+        },
+        {
+          "item_code": "MAH003",
+          "item_description": "Orion Mahogany Varnish1/21",
+          "price": ""
+        },
+        {
+          "item_code": "MAH004",
+          "item_description": "Orion Mahogany Varnish1 1",
+          "price": ""
+        },
+        {
+          "item_code": "CSG010",
+          "item_description": "C/S/G Vesta Red Oxide 41-Primer",
+          "price": ""
+        },
+        {
+          "item_code": "CSG009",
+          "item_description": "C/S/G Ruff & Tuff 301-White Base",
+          "price": ""
+        },
+        {
+          "item_code": "RUF001",
+          "item_description": "RUFF \"\"N\"\" TUFF 3mm B/whiite",
+          "price": ""
+        },
+        {
+          "item_code": "CSG002",
+          "item_description": "C/S/G Aqua Glow B/W 41",
+          "price": ""
+        },
+        {
+          "item_code": "CSG003",
+          "item_description": "C/E Vesta White 201",
+          "price": ""
+        },
+        {
+          "item_code": "CSG004",
+          "item_description": "C/S/G Varnish Mahogany 4L",
+          "price": ""
+        },
+        {
+          "item_code": "CSG006",
+          "item_description": "C/S/G Roadline Black 41",
+          "price": ""
+        },
+        {
+          "item_code": "CSG007",
+          "item_description": "C/S/G Zinc phophate Grey 4 1",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "PLUMBING MATERI PLUMBING MATERIALS",
+      "products": [
+        {
+          "item_code": "FLE012",
+          "item_description": "Flex Tube Metallic 1/2x1ft",
+          "price": ""
+        },
+        {
+          "item_code": "PPR155",
+          "item_description": "Ppr Pipe Danco 63mm",
+          "price": ""
+        },
+        {
+          "item_code": "GIR001",
+          "item_description": "Gi Red Bush 11/2x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR156",
+          "item_description": "Ppr M/Elbow 63x2",
+          "price": ""
+        },
+        {
+          "item_code": "BAL024",
+          "item_description": "Ball Valve 11/4 pegler",
+          "price": ""
+        },
+        {
+          "item_code": "TIS009",
+          "item_description": "Tissue Holder NEMSI Black",
+          "price": ""
+        },
+        {
+          "item_code": "PVC096",
+          "item_description": "Pvc W/Pipe Metro $11/4^{\\prime\\prime}$",
+          "price": ""
+        },
+        {
+          "item_code": "TOW016",
+          "item_description": "Towel Holder -Premium square-black",
+          "price": ""
+        },
+        {
+          "item_code": "PPR158",
+          "item_description": "Ppr F/Thread Union 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "BAL026",
+          "item_description": "Ball Valve 3/4-Lirlee",
+          "price": ""
+        },
+        {
+          "item_code": "ANG011",
+          "item_description": "Angle Valve 1/2turn",
+          "price": ""
+        },
+        {
+          "item_code": "AS1002",
+          "item_description": "Asian Toilet",
+          "price": ""
+        },
+        {
+          "item_code": "BAL011",
+          "item_description": "Ball Valve 1 Pegler",
+          "price": ""
+        },
+        {
+          "item_code": "BAL012",
+          "item_description": "Ball Valve 1/2 Pegler",
+          "price": ""
+        },
+        {
+          "item_code": "BAL013",
+          "item_description": "Ball Valve $11/2$ pegler",
+          "price": ""
+        },
+        {
+          "item_code": "BOS001",
+          "item_description": "Boss White 200g",
+          "price": ""
+        },
+        {
+          "item_code": "BOS002",
+          "item_description": "Boss White 400g",
+          "price": ""
+        },
+        {
+          "item_code": "BOT007",
+          "item_description": "Magic Connector Plastic $11/2^{\\prime\\prime}$",
+          "price": ""
+        },
+        {
+          "item_code": "BOT009",
+          "item_description": "Magic Connector Plastic $11/4^{\\prime\\prime}$",
+          "price": ""
+        },
+        {
+          "item_code": "BOT010",
+          "item_description": "Bottle Trap Viega 1 $1.1/4$",
+          "price": ""
+        },
+        {
+          "item_code": "BOT011",
+          "item_description": "Bottle Trap Viega $11/2$",
+          "price": ""
+        },
+        {
+          "item_code": "CIS004",
+          "item_description": "Cistern High Lever",
+          "price": ""
+        },
+        {
+          "item_code": "CIS005",
+          "item_description": "Cistern Low Lever",
+          "price": ""
+        },
+        {
+          "item_code": "CYP001",
+          "item_description": "Syphone",
+          "price": ""
+        },
+        {
+          "item_code": "CYP003",
+          "item_description": "Syphon Top Flush",
+          "price": ""
+        },
+        {
+          "item_code": "DAY010",
+          "item_description": "Waterpump Dayliff 0.5HP",
+          "price": ""
+        },
+        {
+          "item_code": "DRA001",
+          "item_description": "Drain Opener 1kg",
+          "price": ""
+        },
+        {
+          "item_code": "DRA002",
+          "item_description": "Drain Opener 500g",
+          "price": ""
+        },
+        {
+          "item_code": "FLE004",
+          "item_description": "Flex Tube Plastic 1/2x2ft",
+          "price": ""
+        },
+        {
+          "item_code": "GAT003",
+          "item_description": "Gate Valve $1/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GAT004",
+          "item_description": "Gate Valve $11/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GAT005",
+          "item_description": "Gate Valve 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "GAT006",
+          "item_description": "Gate Valve 2 pegler",
+          "price": ""
+        },
+        {
+          "item_code": "GI 002",
+          "item_description": "Gi Back Nut $1/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GI 004",
+          "item_description": "Gi Back Nut 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 005",
+          "item_description": "Gi Back Nut 2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 006",
+          "item_description": "Gi Back Nut 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 007",
+          "item_description": "Gi Barrel Nipple 1",
+          "price": ""
+        },
+        {
+          "item_code": "GI 008",
+          "item_description": "Gi Barrel Nipple $1/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GI 012",
+          "item_description": "$3/4$ Gi Barrel Nipple",
+          "price": ""
+        },
+        {
+          "item_code": "GI 020",
+          "item_description": "Gi Cup Plug $1/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GI 023",
+          "item_description": "Gi Cup Plug 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 024",
+          "item_description": "Gi Elbow 1",
+          "price": ""
+        },
+        {
+          "item_code": "GI 025",
+          "item_description": "Gi Elbow 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 026",
+          "item_description": "Gi Elbow $11/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GI 027",
+          "item_description": "Gi Elbow 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 029",
+          "item_description": "Gi Elbow 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 031",
+          "item_description": "Gi Hex Nipple 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 032",
+          "item_description": "Gi Hex Nipple $11/2$",
+          "price": ""
+        },
+        {
+          "item_code": "GI 034",
+          "item_description": "Gi Hex Nipple 2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 035",
+          "item_description": "Gi Hex Nipple 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 036",
+          "item_description": "Gi Long Thread Nipple 1",
+          "price": ""
+        },
+        {
+          "item_code": "GI 037",
+          "item_description": "Gi Long Thread Nipple 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 041",
+          "item_description": "Gi Long Thread Nipple 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 043",
+          "item_description": "Gi Plug 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 045",
+          "item_description": "Gi Plug 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 065",
+          "item_description": "Gi Red Socket 3/4x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 068",
+          "item_description": "Gi Socket 1",
+          "price": ""
+        },
+        {
+          "item_code": "GI 073",
+          "item_description": "Gi Socket 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 074",
+          "item_description": "Gi Stand Pipe 1/2x1.5ft",
+          "price": ""
+        },
+        {
+          "item_code": "GI 075",
+          "item_description": "Gi Stand Pipe 1/2x1ft",
+          "price": ""
+        },
+        {
+          "item_code": "GI 076",
+          "item_description": "Gi Stand Pipe 1/2x2ft",
+          "price": ""
+        },
+        {
+          "item_code": "GI 077",
+          "item_description": "Gi Stand Pipe 1/2x3ft",
+          "price": ""
+        },
+        {
+          "item_code": "GI 081",
+          "item_description": "Gi Tee 1",
+          "price": ""
+        },
+        {
+          "item_code": "GI 082",
+          "item_description": "Gi Tee 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 088",
+          "item_description": "Gi Tee 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 089",
+          "item_description": "Gi Union 1",
+          "price": ""
+        },
+        {
+          "item_code": "GI 090",
+          "item_description": "Gi Union 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "GI 092",
+          "item_description": "Gi Union 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "GI 095",
+          "item_description": "Gi Union 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "GUT001",
+          "item_description": "Gutter Angle",
+          "price": ""
+        },
+        {
+          "item_code": "GUT002",
+          "item_description": "Gutter Bracket",
+          "price": ""
+        },
+        {
+          "item_code": "GUT012",
+          "item_description": "Gutter Stop End",
+          "price": ""
+        },
+        {
+          "item_code": "HOS011",
+          "item_description": "Hose Pipe Braided 1/2x30m",
+          "price": ""
+        },
+        {
+          "item_code": "HOS012",
+          "item_description": "Hose Pipe Braided 1/2x50m",
+          "price": ""
+        },
+        {
+          "item_code": "HOS013",
+          "item_description": "Hose Pipe Braided 1x30m",
+          "price": ""
+        },
+        {
+          "item_code": "HOS014",
+          "item_description": "Hose Pipe Braided 1x50",
+          "price": ""
+        },
+        {
+          "item_code": "HOS015",
+          "item_description": "Hose Pipe Braided 3/4x30m",
+          "price": ""
+        },
+        {
+          "item_code": "HOS018",
+          "item_description": "Hose Pipe Clear 1/2x60ft",
+          "price": ""
+        },
+        {
+          "item_code": "KIT006",
+          "item_description": "Kitchen Sink D/B S/D",
+          "price": ""
+        },
+        {
+          "item_code": "KIT007",
+          "item_description": "Kitchen Sink S/B S/D",
+          "price": ""
+        },
+        {
+          "item_code": "MAG001",
+          "item_description": "Magic Connector 11/2 CHROME",
+          "price": ""
+        },
+        {
+          "item_code": "MAG002",
+          "item_description": "Magic Connector 11/4 CHROME",
+          "price": ""
+        },
+        {
+          "item_code": "NON002",
+          "item_description": "Non Return Valve 1 pegler",
+          "price": ""
+        },
+        {
+          "item_code": "NON003",
+          "item_description": "Non Return Valve 1/2 Pegler",
+          "price": ""
+        },
+        {
+          "item_code": "NON006",
+          "item_description": "Non Return Valve 3/4 Pegler",
+          "price": ""
+        },
+        {
+          "item_code": "PED001",
+          "item_description": "Pedrallo Pump 0.5hp",
+          "price": ""
+        },
+        {
+          "item_code": "PED002",
+          "item_description": "Pedrallo Pump 1hp",
+          "price": ""
+        },
+        {
+          "item_code": "PIL005",
+          "item_description": "Pillar Tap Sprout Brimix",
+          "price": ""
+        },
+        {
+          "item_code": "POP005",
+          "item_description": "Pop Up Waste Chrome 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR003",
+          "item_description": "Ppr Ball Cork 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR013",
+          "item_description": "Ppr Double Elbow 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR014",
+          "item_description": "Ppr Elbow 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR016",
+          "item_description": "Ppr Elbow 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR018",
+          "item_description": "Ppr Elbow 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR020",
+          "item_description": "Ppr Elbow 40mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR021",
+          "item_description": "Ppr Elbow 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR022",
+          "item_description": "Ppr Elbow 63mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR024",
+          "item_description": "Ppr F/Adapter 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR025",
+          "item_description": "Ppr F/Adapter 25x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR026",
+          "item_description": "Ppr F/Adapter 32x1",
+          "price": ""
+        },
+        {
+          "item_code": "PPR027",
+          "item_description": "Ppr F/Adapter 32x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR028",
+          "item_description": "Ppr F/Adapter 40x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR032",
+          "item_description": "Ppr F/Elbow 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR033",
+          "item_description": "Ppr F/Elbow 25x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR034",
+          "item_description": "Ppr F/Elbow 32x1",
+          "price": ""
+        },
+        {
+          "item_code": "PPR036",
+          "item_description": "Ppr F/Elbow 32x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR037",
+          "item_description": "Ppr F/Elbow 40x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR038",
+          "item_description": "Ppr F/Elbow 50x11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR040",
+          "item_description": "Ppr F/Tee 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR041",
+          "item_description": "Ppr F/Tee 25x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR042",
+          "item_description": "Ppr F/Tee 32x1",
+          "price": ""
+        },
+        {
+          "item_code": "PPR043",
+          "item_description": "Ppr F/Tee 32x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR045",
+          "item_description": "Ppr F/ Thread Union 1",
+          "price": ""
+        },
+        {
+          "item_code": "PPR050",
+          "item_description": "Ppr M/Adapter 20x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR051",
+          "item_description": "Ppr M/Adapter 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR052",
+          "item_description": "Ppr M/Adapter 25x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR054",
+          "item_description": "Ppr M/Adapter 32x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR055",
+          "item_description": "Ppr M/Adapter 32x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR056",
+          "item_description": "Ppr M/Adapter 40x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR057",
+          "item_description": "Ppr M/Adapter 50x11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR058",
+          "item_description": "Ppr M/Adapter 63x2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR060",
+          "item_description": "Ppr M/Elbow 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR061",
+          "item_description": "Ppr M/Elbow 25x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR062",
+          "item_description": "Ppr M/Elbow 32x1",
+          "price": ""
+        },
+        {
+          "item_code": "PPR063",
+          "item_description": "Ppr M/Elbow 32x3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR064",
+          "item_description": "Ppr M/Elbow 40x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR065",
+          "item_description": "Ppr M/Elbow 50x11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR067",
+          "item_description": "Ppr M/Tee 25x1/2",
+          "price": ""
+        },
+        {
+          "item_code": "PPR072",
+          "item_description": "Ppr M/Thread Union 1",
+          "price": ""
+        },
+        {
+          "item_code": "PPR074",
+          "item_description": "Ppr M/Thread Union 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "PPR076",
+          "item_description": "Ppr Overbend 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR084",
+          "item_description": "Ppr Pipe Danco 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR086",
+          "item_description": "Ppr Pipe Danco 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR087",
+          "item_description": "Ppr Pipe Danco 40mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR088",
+          "item_description": "Ppr Pipe Danco 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR096",
+          "item_description": "Ppr Pipe Roll 20mm-DANCO",
+          "price": ""
+        },
+        {
+          "item_code": "PPR102",
+          "item_description": "Ppr Pipe Roll Danco 40mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR103",
+          "item_description": "Ppr Pipe Roll Danco 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR104",
+          "item_description": "Ppr Pipe Roll Danco 63mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR125",
+          "item_description": "Ppr Socket 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR126",
+          "item_description": "Ppr Socket 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR127",
+          "item_description": "Ppr Socket 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR128",
+          "item_description": "Ppr Socket 40mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR130",
+          "item_description": "Ppr Socket 63mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR135",
+          "item_description": "Ppr socket 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR138",
+          "item_description": "Ppr Tee 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR139",
+          "item_description": "Ppr Tee 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR141",
+          "item_description": "Ppr Tee 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR142",
+          "item_description": "Ppr Tee 63mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR148",
+          "item_description": "Ppr Union 25mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR149",
+          "item_description": "Ppr Union 32mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR151",
+          "item_description": "Ppr Union 50mm",
+          "price": ""
+        },
+        {
+          "item_code": "PPR152",
+          "item_description": "Ppr Union 63mm",
+          "price": ""
+        },
+        {
+          "item_code": "PUM001",
+          "item_description": "Pump Control Auto",
+          "price": ""
+        },
+        {
+          "item_code": "PVC003",
+          "item_description": "Pvc Bend 11/4x45",
+          "price": ""
+        },
+        {
+          "item_code": "PVC004",
+          "item_description": "Pvc Bend 11/4x90",
+          "price": ""
+        },
+        {
+          "item_code": "PVC005",
+          "item_description": "Pvc Bend 2x45",
+          "price": ""
+        },
+        {
+          "item_code": "PVC006",
+          "item_description": "Pvc Bend 2x90",
+          "price": ""
+        },
+        {
+          "item_code": "PVC007",
+          "item_description": "Pvc Bend 3x45",
+          "price": ""
+        },
+        {
+          "item_code": "PVC008",
+          "item_description": "Pvc Bend 3x90",
+          "price": ""
+        },
+        {
+          "item_code": "PVC009",
+          "item_description": "Pvc Bend 4x45",
+          "price": ""
+        },
+        {
+          "item_code": "PVC011",
+          "item_description": "Pvc Bend 6x45",
+          "price": ""
+        },
+        {
+          "item_code": "PVC012",
+          "item_description": "Pvc Bend 6x90",
+          "price": ""
+        },
+        {
+          "item_code": "PVC013",
+          "item_description": "Pvc Bend 8x90",
+          "price": ""
+        },
+        {
+          "item_code": "PVC014",
+          "item_description": "Pvc Boss Connector 4x11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC015",
+          "item_description": "Pvc Boss Connector 4x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC016",
+          "item_description": "Pvc Boss Connector 4x2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC017",
+          "item_description": "Pvc Boss Connector 4x3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC019",
+          "item_description": "Pvc Cross Tee 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC020",
+          "item_description": "Pvc Flex Bend 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC022",
+          "item_description": "Pvc Floor Trap 4way",
+          "price": ""
+        },
+        {
+          "item_code": "PVC023",
+          "item_description": "Pvc Floor Trap 1Way",
+          "price": ""
+        },
+        {
+          "item_code": "PVC028",
+          "item_description": "Pvc Gulley Trap 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC031",
+          "item_description": "Pvc Inspection Bend 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC034",
+          "item_description": "Pvc Plug 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC036",
+          "item_description": "Pvc Plug 2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC037",
+          "item_description": "Pvc Plug 3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC038",
+          "item_description": "Pvc Plug 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC053",
+          "item_description": "Pvc Reducer 11/2x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC054",
+          "item_description": "Pvc Reducer 2x11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC055",
+          "item_description": "Pvc Reducer 2x11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC056",
+          "item_description": "Pvc Reducer 3x2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC057",
+          "item_description": "Pvc Reducer 4x2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC058",
+          "item_description": "Pvc Reducer 4x3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC059",
+          "item_description": "Pvc Reducer 6x4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC062",
+          "item_description": "Pvc Socket 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC064",
+          "item_description": "Pvc Tee 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC065",
+          "item_description": "Pvc Tee 11/4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC066",
+          "item_description": "Pvc Tee 2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC067",
+          "item_description": "Pvc Tee 3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC068",
+          "item_description": "Pvc Tee 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC069",
+          "item_description": "Pvc Tee 6",
+          "price": ""
+        },
+        {
+          "item_code": "PVC072",
+          "item_description": "Pvc Vent Core 2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC073",
+          "item_description": "Pvc Vent Core 3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC074",
+          "item_description": "Pvc Vent Core 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC077",
+          "item_description": "Pvc W/Pipe Grey 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC079",
+          "item_description": "Pvc W/Pipe Grey 2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC080",
+          "item_description": "Pvc W/Pipe Grey 3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC081",
+          "item_description": "Pvc W/Pipe Grey 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC082",
+          "item_description": "Pvc W/Pipe Grey 6",
+          "price": ""
+        },
+        {
+          "item_code": "PVC083",
+          "item_description": "Pvc W/Pipe Grey 8 pm",
+          "price": ""
+        },
+        {
+          "item_code": "PVC085",
+          "item_description": "Pvc W/Pipe Metro 11/2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC086",
+          "item_description": "Pvc W/Pipe Metro 2",
+          "price": ""
+        },
+        {
+          "item_code": "PVC087",
+          "item_description": "Pvc W/Pipe Metro 3",
+          "price": ""
+        },
+        {
+          "item_code": "PVC088",
+          "item_description": "Pvc W/Pipe Metro 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC089",
+          "item_description": "Pvc W/Pipe Metro 6",
+          "price": ""
+        },
+        {
+          "item_code": "PVC093",
+          "item_description": "Pvc W/Pipe Pm 4",
+          "price": ""
+        },
+        {
+          "item_code": "PVC094",
+          "item_description": "Pvc Y Tee 4",
+          "price": ""
+        },
+        {
+          "item_code": "STA006",
+          "item_description": "Stand Pipe 1.5ft",
+          "price": ""
+        },
+        {
+          "item_code": "TAP002",
+          "item_description": "Tap Garden 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "TAP003",
+          "item_description": "Tap Lockable 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "TAP004",
+          "item_description": "Tap Lockable 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "THR001",
+          "item_description": "Thread Tape Small",
+          "price": ""
+        },
+        {
+          "item_code": "THR002",
+          "item_description": "Thread Tape Big",
+          "price": ""
+        },
+        {
+          "item_code": "TOW004",
+          "item_description": "Towel Holder Ring-chrome",
+          "price": ""
+        },
+        {
+          "item_code": "WAL014",
+          "item_description": "Wall Tap Short Neck",
+          "price": ""
+        },
+        {
+          "item_code": "WAL015",
+          "item_description": "Wall Tap Long Neck",
+          "price": ""
+        },
+        {
+          "item_code": "WAS003",
+          "item_description": "Wash Hand Basin 18x12",
+          "price": ""
+        },
+        {
+          "item_code": "WAT023",
+          "item_description": "Waterpump Dayliff 1HP",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "STEEL STEEL",
+      "products": [
+        {
+          "item_code": "TUB046",
+          "item_description": "Tube 4x4x4mm",
+          "price": ""
+        },
+        {
+          "item_code": "TUB045",
+          "item_description": "Tube 2x2x1.2mm",
+          "price": ""
+        },
+        {
+          "item_code": "TUB042",
+          "item_description": "Tube 6x4x3mm",
+          "price": ""
+        },
+        {
+          "item_code": "ANG002",
+          "item_description": "Angle Line 11/2x1/4",
+          "price": ""
+        },
+        {
+          "item_code": "BLA007",
+          "item_description": "Black Pipe 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "BLA008",
+          "item_description": "Black Pipe 4",
+          "price": ""
+        },
+        {
+          "item_code": "D 1001",
+          "item_description": "D 10",
+          "price": ""
+        },
+        {
+          "item_code": "D 1003",
+          "item_description": "D 16",
+          "price": ""
+        },
+        {
+          "item_code": "D 2001",
+          "item_description": "D 20",
+          "price": ""
+        },
+        {
+          "item_code": "D 2002",
+          "item_description": "D 25",
+          "price": ""
+        },
+        {
+          "item_code": "R P003",
+          "item_description": "R Pipe 11/4x16g",
+          "price": ""
+        },
+        {
+          "item_code": "R P007",
+          "item_description": "R Pipe 21/2x16g",
+          "price": ""
+        },
+        {
+          "item_code": "R P012",
+          "item_description": "R Pipe 3x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TEE001",
+          "item_description": "Tee 1x1/8",
+          "price": ""
+        },
+        {
+          "item_code": "TUB003",
+          "item_description": "Tube 11/2x11/2x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB004",
+          "item_description": "Tube 11/2x11/2x18g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB006",
+          "item_description": "Tube 11/2x1x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB011",
+          "item_description": "Tube 1x1x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB012",
+          "item_description": "Tube 1x1x18g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB014",
+          "item_description": "Tube 2x1x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB018",
+          "item_description": "Tube 2x2x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB020",
+          "item_description": "Tube 3/4x3/4x16g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB021",
+          "item_description": "Tube 3/4x3/4x18g",
+          "price": ""
+        },
+        {
+          "item_code": "TUB023",
+          "item_description": "Tube 3x2x2.5mm",
+          "price": ""
+        },
+        {
+          "item_code": "TUB027",
+          "item_description": "Tube 3x3x2mm",
+          "price": ""
+        },
+        {
+          "item_code": "TUB035",
+          "item_description": "Tube 4x4x2.5mm",
+          "price": ""
+        },
+        {
+          "item_code": "TUB036",
+          "item_description": "Tube 4x4x3mm",
+          "price": ""
+        },
+        {
+          "item_code": "FLA013",
+          "item_description": "Flat 1x1/4",
+          "price": ""
+        },
+        {
+          "item_code": "FLA016",
+          "item_description": "Flat 2x1/8",
+          "price": ""
+        },
+        {
+          "item_code": "FLA017",
+          "item_description": "Flat 3/4x1/4",
+          "price": ""
+        },
+        {
+          "item_code": "FLA018",
+          "item_description": "Flat 3/4x1/8",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "TILES & ACCESSORIESTILES & ACCESSORIES",
+      "products": [
+        {
+          "item_code": "COR004",
+          "item_description": "Corner Strip Aluminium",
+          "price": ""
+        },
+        {
+          "item_code": "COR006",
+          "item_description": "Corner Strip Gold",
+          "price": ""
+        },
+        {
+          "item_code": "COR007",
+          "item_description": "Corner Strip L Shaped",
+          "price": ""
+        },
+        {
+          "item_code": "COR008",
+          "item_description": "Corner Strip Plastic White",
+          "price": ""
+        },
+        {
+          "item_code": "TIL010",
+          "item_description": "Tile Spacers 2.5mm",
+          "price": ""
+        },
+        {
+          "item_code": "TIL012",
+          "item_description": "Tile Spacers 3mm",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "TIMBER PRODUCTS TIMBER PRODUCTS",
+      "products": [
+        {
+          "item_code": "BUT004",
+          "item_description": "Button Door",
+          "price": ""
+        },
+        {
+          "item_code": "CEI001",
+          "item_description": "Ceiling Board Flowered",
+          "price": ""
+        },
+        {
+          "item_code": "CEI002",
+          "item_description": "Ceiling Board Plain",
+          "price": ""
+        },
+        {
+          "item_code": "CHI006",
+          "item_description": "Chip Board White",
+          "price": ""
+        },
+        {
+          "item_code": "FLA003",
+          "item_description": "Flush Door",
+          "price": ""
+        },
+        {
+          "item_code": "GYP006",
+          "item_description": "Gypsum Board Hada",
+          "price": ""
+        },
+        {
+          "item_code": "GYP012",
+          "item_description": "Gypsum Cornice",
+          "price": ""
+        },
+        {
+          "item_code": "LIP002",
+          "item_description": "Lipping Cherry Roll",
+          "price": ""
+        },
+        {
+          "item_code": "LIP007",
+          "item_description": "Lipping White",
+          "price": ""
+        },
+        {
+          "item_code": "MAR001",
+          "item_description": "Marine Board",
+          "price": ""
+        },
+        {
+          "item_code": "MDF001",
+          "item_description": "Mdf Board Beech",
+          "price": ""
+        },
+        {
+          "item_code": "MDF002",
+          "item_description": "Mdf Board Cherry",
+          "price": ""
+        },
+        {
+          "item_code": "MDF005",
+          "item_description": "Mdf Board Plain",
+          "price": ""
+        },
+        {
+          "item_code": "MDF008",
+          "item_description": "Mdf Ply Plain",
+          "price": ""
+        },
+        {
+          "item_code": "PLY001",
+          "item_description": "Plywood 3mm",
+          "price": ""
+        },
+        {
+          "item_code": "PLY002",
+          "item_description": "Plywood 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "PLY003",
+          "item_description": "Plywood 9mm",
+          "price": ""
+        },
+        {
+          "item_code": "PAN003",
+          "item_description": "Panel Door Laminated",
+          "price": ""
+        },
+        {
+          "item_code": "PAN004",
+          "item_description": "Panel Door Mahogany",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "TOOLS & MACHINERYTOOLS & MACHINERY",
+      "products": [
+        {
+          "item_code": "DEW008",
+          "item_description": "Dewalt Grinder 4010",
+          "price": ""
+        },
+        {
+          "item_code": "DEW009",
+          "item_description": "Dewalt Grinder 4120",
+          "price": ""
+        },
+        {
+          "item_code": "DEW010",
+          "item_description": "Dewalt Grinding Disk4\"",
+          "price": ""
+        },
+        {
+          "item_code": "DEW011",
+          "item_description": "Dewalt Slim cutting4\"",
+          "price": ""
+        },
+        {
+          "item_code": "DEW012",
+          "item_description": "Dewalt Hilt 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW013",
+          "item_description": "Dewalt Hilt 14mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW014",
+          "item_description": "Dewalt Hilt 18mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW015",
+          "item_description": "Dewalt Hilt 20mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW016",
+          "item_description": "Dewalt Hilt Elite 12mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW017",
+          "item_description": "Dewalt Hilt Bit 7mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW018",
+          "item_description": "Dewalt Hilt Bit 6508- 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW019",
+          "item_description": "Dewalt Hilt Bit6556-6mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW020",
+          "item_description": "Dewalt Diamond 41/2- 47450hp",
+          "price": ""
+        },
+        {
+          "item_code": "DEW021",
+          "item_description": "Dewalt Diamond 9-47900hp",
+          "price": ""
+        },
+        {
+          "item_code": "DEW022",
+          "item_description": "Dewalt Diamond Cup 4-4772t-AE",
+          "price": ""
+        },
+        {
+          "item_code": "DEW023",
+          "item_description": "Dewalt Diamond 7\"-47702HP",
+          "price": ""
+        },
+        {
+          "item_code": "DEW024",
+          "item_description": "Dewalt Diamond 9\" -47902 HP",
+          "price": ""
+        },
+        {
+          "item_code": "DEW025",
+          "item_description": "Dewalt Diamond 4\" dx3721",
+          "price": ""
+        },
+        {
+          "item_code": "DEW026",
+          "item_description": "Dewalt Drill Driver DC077152B",
+          "price": ""
+        },
+        {
+          "item_code": "DEW028",
+          "item_description": "Dewalt Laser DW088K-XJ",
+          "price": ""
+        },
+        {
+          "item_code": "DEW029",
+          "item_description": "Dewalt Hammer chuck d25033c-B5",
+          "price": ""
+        },
+        {
+          "item_code": "DEW030",
+          "item_description": "Dewalt Drill Driver DCD710D2-B",
+          "price": ""
+        },
+        {
+          "item_code": "DEW031",
+          "item_description": "Dewalt Diamond Cup41/2 4774T-AE",
+          "price": ""
+        },
+        {
+          "item_code": "DIG002",
+          "item_description": "Dewalt Digital LED Heat Gun",
+          "price": ""
+        },
+        {
+          "item_code": "STE015",
+          "item_description": "Steel Tape",
+          "price": ""
+        },
+        {
+          "item_code": "HOU001",
+          "item_description": "Household ladder -steel and aluminium",
+          "price": ""
+        },
+        {
+          "item_code": "SOF004",
+          "item_description": "Soft Broom Without Handle",
+          "price": ""
+        },
+        {
+          "item_code": "HAN006",
+          "item_description": "Hard Broom With Handle",
+          "price": ""
+        },
+        {
+          "item_code": "HAN007",
+          "item_description": "Hard Broom Without Handle",
+          "price": ""
+        },
+        {
+          "item_code": "FOR006",
+          "item_description": "Force Pump Big",
+          "price": ""
+        },
+        {
+          "item_code": "DEW002",
+          "item_description": "Dewalt DrillDriver 18v-1.5Ah",
+          "price": ""
+        },
+        {
+          "item_code": "DEW003",
+          "item_description": "DewaltAngle Grinder220W-180mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW004",
+          "item_description": "Dewalt Blower800W",
+          "price": ""
+        },
+        {
+          "item_code": "DEW005",
+          "item_description": "Dewalt Paddle Switch 1200w-115mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW006",
+          "item_description": "Dewalt Circula Saw 1500w-190mm",
+          "price": ""
+        },
+        {
+          "item_code": "DEW007",
+          "item_description": "Dewalt std HeatGun 1800w",
+          "price": ""
+        },
+        {
+          "item_code": "BRU013",
+          "item_description": "Brush Fixtec 5",
+          "price": ""
+        },
+        {
+          "item_code": "RAK007",
+          "item_description": "Rake Juakali Small",
+          "price": ""
+        },
+        {
+          "item_code": "CLA004",
+          "item_description": "Stanley-Claw Hammer 160z (453g)f/g",
+          "price": ""
+        },
+        {
+          "item_code": "PLI004",
+          "item_description": "Stanley-Pliers Combination7'' dyna grip",
+          "price": ""
+        },
+        {
+          "item_code": "TYR001",
+          "item_description": "Stanley-Tyre Repair Kit",
+          "price": ""
+        },
+        {
+          "item_code": "RET001",
+          "item_description": "Stanley-Retractable Knife With 3 Blades",
+          "price": ""
+        },
+        {
+          "item_code": "CLA005",
+          "item_description": "Stanley-Claw Hammer 20oz",
+          "price": ""
+        },
+        {
+          "item_code": "MEA001",
+          "item_description": "Stanley-Measuring Tape-5m power lock",
+          "price": ""
+        },
+        {
+          "item_code": "MEA002",
+          "item_description": "Stanley -Measuring Tape 5m-Tylon",
+          "price": ""
+        },
+        {
+          "item_code": "MEA003",
+          "item_description": "stanley-Measuring Tape 8m-tylon",
+          "price": ""
+        },
+        {
+          "item_code": "PLI005",
+          "item_description": "Stanley-Pliers Circlip7'' Bent External",
+          "price": ""
+        },
+        {
+          "item_code": "PLI006",
+          "item_description": "Stanley-Pliers circlip7\" straight internal",
+          "price": ""
+        },
+        {
+          "item_code": "PLI007",
+          "item_description": "Stanley-Pliears Combination8''Dynagrip.",
+          "price": ""
+        },
+        {
+          "item_code": "PLI008",
+          "item_description": "Stanley-Pliers End Nipper6",
+          "price": ""
+        },
+        {
+          "item_code": "PLI009",
+          "item_description": "Stanley-Pliers Mini -MultiTool",
+          "price": ""
+        },
+        {
+          "item_code": "SCR025",
+          "item_description": "Stanley-Screw Driver CushionGripstar3x200mm",
+          "price": ""
+        },
+        {
+          "item_code": "SCR026",
+          "item_description": "Stanley-Screw Driver Set 6pc-magnetic tip+tester",
+          "price": ""
+        },
+        {
+          "item_code": "SCR027",
+          "item_description": "Stanley-Screw Driver Set 8pc cushionGripTOOLS",
+          "price": ""
+        },
+        {
+          "item_code": "SCR028",
+          "item_description": "Stanley-Screw DriverCushion GripStar 3x250mm",
+          "price": ""
+        },
+        {
+          "item_code": "ALL003",
+          "item_description": "Stanley-Alluminium Level12'(300mm)Antichoc",
+          "price": ""
+        },
+        {
+          "item_code": "ALL004",
+          "item_description": "Stanley-Alluminium Level 24''(600mm) -(b-10)",
+          "price": ""
+        },
+        {
+          "item_code": "BOS003",
+          "item_description": "Bosch cutting Slim 4",
+          "price": ""
+        },
+        {
+          "item_code": "BOS004",
+          "item_description": "Bosch Grinding 7",
+          "price": ""
+        },
+        {
+          "item_code": "BOS005",
+          "item_description": "Bosch Grinding 4",
+          "price": ""
+        },
+        {
+          "item_code": "BOS006",
+          "item_description": "Bosch Grinding 9",
+          "price": ""
+        },
+        {
+          "item_code": "BOS007",
+          "item_description": "Bosch Cutting Slim 9",
+          "price": ""
+        },
+        {
+          "item_code": "BOS008",
+          "item_description": "Bosch Circular Saw Blade7 40T",
+          "price": ""
+        },
+        {
+          "item_code": "BOS009",
+          "item_description": "Bosch Circular Saw Blade 7 60T",
+          "price": ""
+        },
+        {
+          "item_code": "BOS010",
+          "item_description": "Bosch Circular Saw Blade 9 40T",
+          "price": ""
+        },
+        {
+          "item_code": "BOS011",
+          "item_description": "Bosch Circular Saw Blade 9 60T",
+          "price": ""
+        },
+        {
+          "item_code": "BOS012",
+          "item_description": "Bosch Circular Saw Blade 10 60T",
+          "price": ""
+        },
+        {
+          "item_code": "FLA019",
+          "item_description": "Bosch Flap Disc 4 P40",
+          "price": ""
+        },
+        {
+          "item_code": "BOS013",
+          "item_description": "Bosch Flap Disc 4 P60",
+          "price": ""
+        },
+        {
+          "item_code": "BOS014",
+          "item_description": "Bosch Flap Disc 4 P80",
+          "price": ""
+        },
+        {
+          "item_code": "FLA020",
+          "item_description": "Bosch Flap Disc 4 P 120",
+          "price": ""
+        },
+        {
+          "item_code": "BOS015",
+          "item_description": "Bosch Sanding DiscP60",
+          "price": ""
+        },
+        {
+          "item_code": "BOS016",
+          "item_description": "Bosch Cutting Diamond 4",
+          "price": ""
+        },
+        {
+          "item_code": "BOS017",
+          "item_description": "Bosch Cutting Diamond 9",
+          "price": ""
+        },
+        {
+          "item_code": "BOS018",
+          "item_description": "Bosch cutting Ceramic 4",
+          "price": ""
+        },
+        {
+          "item_code": "BOS019",
+          "item_description": "Bosch Hole saw Pkt",
+          "price": ""
+        },
+        {
+          "item_code": "BOS020",
+          "item_description": "Bosch Blade For Wood Set",
+          "price": ""
+        },
+        {
+          "item_code": "BOS021",
+          "item_description": "Bosch Saw Blade Set",
+          "price": ""
+        },
+        {
+          "item_code": "BOS022",
+          "item_description": "Bosch Drill Bit 3mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS023",
+          "item_description": "Bosch Drill Bit 4mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS024",
+          "item_description": "Bosch Drill Bit 5mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS025",
+          "item_description": "Bosch Drill Bit 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS026",
+          "item_description": "Bosch Bit Hard Metal 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "SCR029",
+          "item_description": "Screw DriverBit PH2",
+          "price": ""
+        },
+        {
+          "item_code": "BOS027",
+          "item_description": "Bosch Router Bit Set 471",
+          "price": ""
+        },
+        {
+          "item_code": "BOS028",
+          "item_description": "Bosch Bit Set 472",
+          "price": ""
+        },
+        {
+          "item_code": "BOS029",
+          "item_description": "Bosch Sand Paper P60",
+          "price": ""
+        },
+        {
+          "item_code": "BOS030",
+          "item_description": "Bosch Sand Paper P120",
+          "price": ""
+        },
+        {
+          "item_code": "BOS031",
+          "item_description": "Bosch Router Bit Set 464",
+          "price": ""
+        },
+        {
+          "item_code": "BOS032",
+          "item_description": "Bosch Hilt Bit 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS033",
+          "item_description": "Bosch Hilt Bit 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS034",
+          "item_description": "Bosch Hilt Bit 10mm",
+          "price": ""
+        },
+        {
+          "item_code": "BOS035",
+          "item_description": "Bosch Accessory Set",
+          "price": ""
+        },
+        {
+          "item_code": "BOS036",
+          "item_description": "Bosch Cordless Screw Driver",
+          "price": ""
+        },
+        {
+          "item_code": "BOS037",
+          "item_description": "Bosch Dril 400w",
+          "price": ""
+        },
+        {
+          "item_code": "BOS038",
+          "item_description": "Bosch Angle Grinder small- OLO",
+          "price": ""
+        },
+        {
+          "item_code": "BOS039",
+          "item_description": "Bosch Angle Grinder Big -OPO",
+          "price": ""
+        },
+        {
+          "item_code": "BOS040",
+          "item_description": "Bosch Straight Grinder",
+          "price": ""
+        },
+        {
+          "item_code": "BOS041",
+          "item_description": "Bosch Jigsaw",
+          "price": ""
+        },
+        {
+          "item_code": "BOS042",
+          "item_description": "Bosch Circular Hand saw",
+          "price": ""
+        },
+        {
+          "item_code": "BOS043",
+          "item_description": "Bosch Orbital Sander",
+          "price": ""
+        },
+        {
+          "item_code": "BOS044",
+          "item_description": "Bosch Industrial Router",
+          "price": ""
+        },
+        {
+          "item_code": "BOS045",
+          "item_description": "Bosch Heat Gun 180",
+          "price": ""
+        },
+        {
+          "item_code": "BOS046",
+          "item_description": "Bosch Laser Tape Measure -WOO",
+          "price": ""
+        },
+        {
+          "item_code": "BOS047",
+          "item_description": "Bosch Laser Tape Measure S00",
+          "price": ""
+        },
+        {
+          "item_code": "BOS049",
+          "item_description": "Bosch Laser Level 320",
+          "price": ""
+        },
+        {
+          "item_code": "TAP022",
+          "item_description": "Tape Measure Knicker 5M",
+          "price": ""
+        },
+        {
+          "item_code": "MAS010",
+          "item_description": "Mason Bit 10mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAS011",
+          "item_description": "Mason Bit 12mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAS014",
+          "item_Services": "Mason Bit 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAS015",
+          "item_description": "Mason Bit 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "MAS019",
+          "item_description": "Mason Hammer 2.5lb",
+          "price": ""
+        },
+        {
+          "item_code": "MAS020",
+          "item_description": "Mason Hammer 2lb",
+          "price": ""
+        },
+        {
+          "item_code": "MAS021",
+          "item_description": "Mason Hammer 3lb",
+          "price": ""
+        },
+        {
+          "item_code": "MOP003",
+          "item_description": "Mop Bucket",
+          "price": ""
+        },
+        {
+          "item_code": "MOP006",
+          "item_description": "Mop Teepee",
+          "price": ""
+        },
+        {
+          "item_code": "BRU001",
+          "item_description": "Brush Fixtec 1",
+          "price": ""
+        },
+        {
+          "item_code": "BRU002",
+          "item_description": "Brush Fixtec 2",
+          "price": ""
+        },
+        {
+          "item_code": "BRU003",
+          "item_description": "Brush Fixtec 3",
+          "price": ""
+        },
+        {
+          "item_code": "BRU004",
+          "item_description": "Brush Fixtec 4",
+          "price": ""
+        },
+        {
+          "item_code": "BRU005",
+          "item_description": "Brush Fixtec 6",
+          "price": ""
+        },
+        {
+          "item_code": "BRU007",
+          "item_description": "Brush Premium 2",
+          "price": ""
+        },
+        {
+          "item_code": "BRU009",
+          "item_description": "Brush Premium 3",
+          "price": ""
+        },
+        {
+          "item_code": "BRU010",
+          "item_description": "Brush Premium 4",
+          "price": ""
+        },
+        {
+          "item_code": "BRU011",
+          "item_description": "Brush Premium 5",
+          "price": ""
+        },
+        {
+          "item_code": "BRU012",
+          "item_description": "Brush Premium 6",
+          "price": ""
+        },
+        {
+          "item_code": "CHI008",
+          "item_description": "Chisel 1/2",
+          "price": ""
+        },
+        {
+          "item_code": "CHI009",
+          "item_description": "Chisel 3/4",
+          "price": ""
+        },
+        {
+          "item_code": "CIR002",
+          "item_description": "Circular Blade 4.5",
+          "price": ""
+        },
+        {
+          "item_code": "CIR003",
+          "item_description": "Circular Blade 7",
+          "price": ""
+        },
+        {
+          "item_code": "CIR004",
+          "item_description": "Circular Blade 9",
+          "price": ""
+        },
+        {
+          "item_code": "CUT006",
+          "item_description": "Cutting Disk Diamond 4",
+          "price": ""
+        },
+        {
+          "item_code": "CUT007",
+          "item_description": "Cutting Disk Diamond 7",
+          "price": ""
+        },
+        {
+          "item_code": "CUT008",
+          "item_description": "Cutting Disk Diamond 9",
+          "price": ""
+        },
+        {
+          "item_code": "CUT009",
+          "item_description": "Cutting Disk Metal 4",
+          "price": ""
+        },
+        {
+          "item_code": "CUT010",
+          "item_description": "Grinding Disk 7.",
+          "price": ""
+        },
+        {
+          "item_code": "CUT011",
+          "item_description": "Cutting Disk Metal 9",
+          "price": ""
+        },
+        {
+          "item_code": "CUT013",
+          "item_description": "Cutting Disk Slim 9",
+          "price": ""
+        },
+        {
+          "item_code": "DRI002",
+          "item_description": "Drill Bit 10mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI004",
+          "item_description": "Drill Bit 12mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI005",
+          "item_description": "Drill Bit 14mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI006",
+          "item_description": "Drill Bit 16mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI008",
+          "item_description": "Drill Bit 3.5mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI010",
+          "item_description": "Drill Bit 3mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI011",
+          "item_description": "Drill Bit 4.5mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI012",
+          "item_description": "Drill Bit 4mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI013",
+          "item_description": "Drill Bit 5mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI014",
+          "item_description": "Drill Bit 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI016",
+          "item_description": "Drill Bit 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "DRI018",
+          "item_description": "Drill Bit Hilt 10mm",
+          "price": ""
+        },
+        {
+          "item_code": "FIL001",
+          "item_description": "File 10 jk",
+          "price": ""
+        },
+        {
+          "item_code": "FIL003",
+          "item_description": "File 8 jk",
+          "price": ""
+        },
+        {
+          "item_code": "FLA001",
+          "item_description": "Flap Disk 4",
+          "price": ""
+        },
+        {
+          "item_code": "FOR001",
+          "item_description": "Force Pump small",
+          "price": ""
+        },
+        {
+          "item_code": "HAC001",
+          "item_description": "Hacksaw Blade",
+          "price": ""
+        },
+        {
+          "item_code": "HAC005",
+          "item_description": "Hacksaw Frame J/K",
+          "price": ""
+        },
+        {
+          "item_code": "HAC006",
+          "item_description": "Hacksaw Frame Orange",
+          "price": ""
+        },
+        {
+          "item_code": "HAM001",
+          "item_description": "Hammer Jk",
+          "price": ""
+        },
+        {
+          "item_code": "HAM003",
+          "item_description": "Hammer Rubber 29mm",
+          "price": ""
+        },
+        {
+          "item_code": "HAN003",
+          "item_description": "Handsaw 16",
+          "price": ""
+        },
+        {
+          "item_code": "HAN004",
+          "item_description": "Handsaw 18",
+          "price": ""
+        },
+        {
+          "item_code": "HIL002",
+          "item_description": "Hilt Bit 12mm",
+          "price": ""
+        },
+        {
+          "item_code": "HIL003",
+          "item_description": "Hilt Bit 14mm",
+          "price": ""
+        },
+        {
+          "item_code": "HIL004",
+          "item_description": "Hilt Bit 16mm",
+          "price": ""
+        },
+        {
+          "item_code": "HIL005",
+          "item_description": "Hilt Bit 6mm",
+          "price": ""
+        },
+        {
+          "item_code": "HIL006",
+          "item_description": "Hilt Bit 8mm",
+          "price": ""
+        },
+        {
+          "item_code": "PIP002",
+          "item_description": "Pipe Wrench 12",
+          "price": ""
+        },
+        {
+          "item_code": "PIP003",
+          "item_description": "Pipe Wrench 14",
+          "price": ""
+        },
+        {
+          "item_code": "PLI001",
+          "item_description": "Pliers H.G",
+          "price": ""
+        },
+        {
+          "item_code": "PLI003",
+          "item_description": "Pliers Red",
+          "price": ""
+        },
+        {
+          "item_code": "RAK002",
+          "item_description": "Rake 12",
+          "price": ""
+        },
+        {
+          "item_code": "RAK003",
+          "item_description": "Rake 14",
+          "price": ""
+        },
+        {
+          "item_code": "ROU007",
+          "item_description": "Round File",
+          "price": ""
+        },
+        {
+          "item_code": "SCR003",
+          "item_description": "Scrapper 2",
+          "price": ""
+        },
+        {
+          "item_code": "SCR005",
+          "item_description": "Scrapper 3",
+          "price": ""
+        },
+        {
+          "item_code": "SCR009",
+          "item_description": "Screw Driver Flat",
+          "price": ""
+        },
+        {
+          "item_code": "SHE001",
+          "item_description": "Shears Adjustable H/G",
+          "price": ""
+        },
+        {
+          "item_code": "SHE003",
+          "item_description": "Shears Fixed",
+          "price": ""
+        },
+        {
+          "item_code": "SIL001",
+          "item_description": "Silicon Gun",
+          "price": ""
+        },
+        {
+          "item_code": "SLE001",
+          "item_description": "Sledge Hammer 10lb",
+          "price": ""
+        },
+        {
+          "item_code": "SLE002",
+          "item_description": "Sledge Hammer 12lb",
+          "price": ""
+        },
+        {
+          "item_code": "SLE003",
+          "item_description": "Sledge Hammer 14lb",
+          "price": ""
+        },
+        {
+          "item_code": "SLE004",
+          "item_description": "Sledge Hammer 6lb",
+          "price": ""
+        },
+        {
+          "item_code": "SLE005",
+          "item_description": "Sledge Hammer 8lb",
+          "price": ""
+        },
+        {
+          "item_code": "SOF003",
+          "item_description": "Soft Broom With Handle",
+          "price": ""
+        },
+        {
+          "item_code": "SPA001",
+          "item_description": "Spade Imported",
+          "price": ""
+        },
+        {
+          "item_code": "SPA007",
+          "item_description": "Spanner Combined 17",
+          "price": ""
+        },
+        {
+          "item_code": "SPA010",
+          "item_description": "Spanner Fix 14x15",
+          "price": ""
+        },
+        {
+          "item_code": "SPA011",
+          "item_description": "Spanner Fix 16x17",
+          "price": ""
+        },
+        {
+          "item_code": "SPA015",
+          "item_description": "Spanner Ring 12x13",
+          "price": ""
+        },
+        {
+          "item_code": "SPA016",
+          "item_description": "Spanner Ring 14x15",
+          "price": ""
+        },
+        {
+          "item_code": "SPA017",
+          "item_description": "Spanner Ring 16x17",
+          "price": ""
+        },
+        {
+          "item_code": "SPI007",
+          "item_description": "Spirit Level Magnetic 12",
+          "price": ""
+        },
+        {
+          "item_code": "SQU001",
+          "item_description": "Squeezer",
+          "price": ""
+        },
+        {
+          "item_code": "STA015",
+          "item_description": "Star Bit",
+          "price": ""
+        },
+        {
+          "item_code": "STE012",
+          "item_description": "Steel Trowel Rubber Handle",
+          "price": ""
+        },
+        {
+          "item_code": "TAP015",
+          "item_description": "Tape Measure 3m",
+          "price": ""
+        },
+        {
+          "item_code": "TAP017",
+          "item_description": "Tape Measure 5m",
+          "price": ""
+        },
+        {
+          "item_code": "TAP018",
+          "item_description": "Tape Measure 7.5m",
+          "price": ""
+        },
+        {
+          "item_code": "TAP019",
+          "item_description": "Tape Measure Steel 100m",
+          "price": ""
+        },
+        {
+          "item_code": "TES001",
+          "item_description": "Tester Big",
+          "price": ""
+        },
+        {
+          "item_code": "TES003",
+          "item_description": "Tester Small",
+          "price": ""
+        },
+        {
+          "item_code": "TRO008",
+          "item_description": "Trowel Jk Small",
+          "price": ""
+        },
+        {
+          "item_code": "WHE003",
+          "item_description": "Wheelbarrow H/G",
+          "price": ""
+        },
+        {
+          "item_code": "WHE005",
+          "item_description": "Wheelbarrow Super H/G",
+          "price": ""
+        },
+        {
+          "item_code": "WHE009",
+          "item_description": "Wheelbarrow Wheel Tuktuk",
+          "price": ""
+        },
+        {
+          "item_code": "WIR001",
+          "item_description": "Wire Brush",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "WELDING MATERIALSWELDING MATERIALS",
+      "products": [
+        {
+          "item_code": "WEL005",
+          "item_description": "Welding Holder",
+          "price": ""
+        },
+        {
+          "item_code": "WEL009",
+          "item_description": "Welding Rods Simba",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "WIRE PRODUCTS WIRE PRODUCTS",
+      "products": [
+        {
+          "item_code": "BRC001",
+          "item_description": "Brc 610",
+          "price": ""
+        },
+        {
+          "item_code": "BRC004",
+          "item_description": "Brc A66",
+          "price": ""
+        },
+        {
+          "item_code": "BRC005",
+          "item_description": "Brc A98 Std",
+          "price": ""
+        },
+        {
+          "item_code": "CHA005",
+          "item_description": "Chain Link 4ft",
+          "price": ""
+        },
+        {
+          "item_code": "CHA006",
+          "item_description": "Chain Link 5ft",
+          "price": ""
+        },
+        {
+          "item_code": "CHA007",
+          "item_description": "Chain Link 6ft",
+          "price": ""
+        },
+        {
+          "item_code": "CHA008",
+          "item_description": "Chain Link 7ft",
+          "price": ""
+        },
+        {
+          "item_code": "CHA009",
+          "item_description": "Chain Link 8ft",
+          "price": ""
+        },
+        {
+          "item_code": "WIR003",
+          "item_description": "Wire Mesh L/G",
+          "price": ""
+        },
+        {
+          "item_code": "WIR004",
+          "item_description": "Wire Mesh M/G",
+          "price": ""
+        }
+      ]
+    }
   ]
 }
