@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next { height: 100%; }
+
+.print-area {
+  background: white;
+}
+
+@media print {
+  .no-print { display: none !important; }
+  .print-area { padding: 0 !important; }
+}
