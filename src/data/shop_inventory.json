@@ -56,32 +56,32 @@
         {
           "item_code": "INS004",
           "item_description": "Insulating Tape Yellow Big",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "INS008",
           "item_description": "Insulating Tape White Big",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "INS012",
           "item_description": "Instant Shower Ener 4t",
-          "price": ""
+          "price": "3200"
         },
         {
           "item_code": "INS015",
           "item_description": "Instant Shower Lorenzeti",
-          "price": ""
+          "price": "2500"
         },
         {
           "item_code": "INS018",
           "item_description": "Insulating Tape Green Big",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "INS019",
           "item_description": "Insulating Tape Red Big",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "LED004",
@@ -106,22 +106,22 @@
         {
           "item_code": "ADA002",
           "item_description": "Adaptor Box 150x150x70",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "ADA003",
           "item_description": "Adaptor Box 200x200x80",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "ADA005",
           "item_description": "Adaptor Box 255x200x80mm",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "ADA006",
           "item_description": "Adaptor Box 300x250x120mm",
-          "price": ""
+          "price": "300"
         },
         {
           "item_code": "BAL010",
@@ -131,72 +131,72 @@
         {
           "item_code": "BLA017",
           "item_description": "Blanking Cover Single",
-          "price": ""
+          "price": "20"
         },
         {
           "item_code": "BUL001",
           "item_description": "Bulb Energy Saver Pin 7w",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "BUL002",
           "item_description": "Bulb Energy Saver Pin 9w",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "BUL003",
           "item_description": "Bulb Energy Saver Screw 7w",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "BUL011",
           "item_description": "Bulb Holder Straight",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "CAB002",
           "item_description": "Cable Clips 12mm",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "CAB006",
           "item_description": "Cable Ties 10",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "CAB007",
           "item_description": "Cable Ties 12",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "CAB008",
           "item_description": "Cable Ties 14",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "CAB009",
           "item_description": "Cable Ties 6",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "CAB010",
           "item_description": "Cable Ties 8",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "CIR008",
           "item_description": "Circular Box 3way 25mm",
-          "price": ""
+          "price": "45"
         },
         {
           "item_code": "CIR009",
           "item_description": "Circular Box 4way 20mm",
-          "price": ""
+          "price": "45"
         },
         {
           "item_code": "CON001",
           "item_description": "Conduit 20mm",
-          "price": ""
+          "price": "120"
         },
         {
           "item_code": "CON003",
@@ -206,17 +206,17 @@
         {
           "item_code": "CON006",
           "item_description": "Conduit Metro 20mm",
-          "price": ""
+          "price": "130"
         },
         {
           "item_code": "CON007",
           "item_description": "Conduit Metro 25mm",
-          "price": ""
+          "price": "230"
         },
         {
           "item_code": "CON008",
           "item_description": "Conduit Metro 32mm",
-          "price": ""
+          "price": "400"
         },
         {
           "item_code": "CON010",
@@ -226,17 +226,17 @@
         {
           "item_code": "CON014",
           "item_description": "Consumer Unit 14way",
-          "price": ""
+          "price": "3300"
         },
         {
           "item_code": "CON015",
           "item_description": "Consumer Unit 4way",
-          "price": ""
+          "price": "2000"
         },
         {
           "item_code": "CON017",
           "item_description": "Consumer Unit 8way",
-          "price": ""
+          "price": "2800"
         },
         {
           "item_code": "COO002",
@@ -246,17 +246,17 @@
         {
           "item_code": "COU009",
           "item_description": "Couplers 20mm",
-          "price": ""
+          "price": "8"
         },
         {
           "item_code": "COU010",
           "item_description": "Couplers 25mm",
-          "price": ""
+          "price": "15"
         },
         {
           "item_code": "COU011",
           "item_description": "Couplers 32mm",
-          "price": ""
+          "price": "20"
         }
       ]
     },
@@ -266,12 +266,12 @@
         {
           "item_code": "COU012",
           "item_description": "Couplers 38mm",
-          "price": ""
+          "price": "30"
         },
         {
           "item_code": "COU013",
           "item_description": "Couplers 50mm",
-          "price": ""
+          "price": "60"
         },
         {
           "item_code": "CUT001",
@@ -291,27 +291,27 @@
         {
           "item_code": "ELE001",
           "item_description": "Elec Bend 20mm",
-          "price": ""
+          "price": "20"
         },
         {
           "item_code": "ELE002",
           "item_description": "Elec Bend 25mm",
-          "price": ""
+          "price": "20"
         },
         {
           "item_code": "ELE003",
           "item_description": "Elec Bend 32mm",
-          "price": ""
+          "price": "30"
         },
         {
           "item_code": "ELE004",
           "item_description": "Elec Bend 38mm",
-          "price": ""
+          "price": "40"
         },
         {
           "item_code": "ELE005",
           "item_description": "Elec Bend 50mm",
-          "price": ""
+          "price": "60"
         },
         {
           "item_code": "ELE006",
@@ -366,7 +366,7 @@
         {
           "item_code": "FRI001",
           "item_description": "Fridge Guard",
-          "price": ""
+          "price": "1500"
         },
         {
           "item_code": "ROU003",
