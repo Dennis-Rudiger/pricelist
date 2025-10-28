@@ -1,0 +1,25 @@
+# Ignore files not needed for Vercel deployments
+.git/
+node_modules/
+.next/
+.next/cache/
+coverage/
+dist/
+tmp/
+*.log
+.DS_Store
+
+# Local env files (configure env vars in Vercel Project Settings instead)
+.env
+.env.*
+
+# Tests and tooling
+**/__tests__/**
+**/*.spec.*
+**/*.test.*
+cypress/
+playwright-report/
+
+# Editor and workspace files
+.vscode/
+.idea/
