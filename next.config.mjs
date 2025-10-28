@@ -9,8 +9,14 @@ const withPWAConfigured = withPWA({
   register: true,
   skipWaiting: true,
   runtimeCaching,
+  // Provide an offline fallback document when a page isn't cached and network fails
+  fallbacks: {
+    document: '/_offline',
+  },
 });
 
 export default withPWAConfigured({
   reactStrictMode: true,
+  // Workaround Windows file lock on .next/trace: use a custom distDir locally
+  distDir: '.next-build',
 });

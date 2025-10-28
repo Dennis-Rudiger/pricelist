@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start -p 3000",
     "lint": "next lint",
-    "test": "vitest"
+    "test": "vitest",
+    "generate:icons": "node scripts/generate_pwa_icons.mjs"
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
@@ -28,6 +29,7 @@
     "eslint": "^8.57.0",
     "eslint-config-next": "^14.2.5",
     "jsdom": "^24.0.0",
+    "pngjs": "^7.0.0",
     "tailwindcss": "^3.4.7",
     "typescript": "^5.4.5",
     "vitest": "^1.6.0"
