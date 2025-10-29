@@ -15,7 +15,8 @@ function isiOS(): boolean {
 function isStandalone(): boolean {
   if (typeof window === "undefined") return false;
   // iOS Safari exposes navigator.standalone; other browsers support display-mode media query
-  const iosStandalone = (navigator as any).standalone === true;
+  const nav = navigator as Navigator & { standalone?: boolean };
+  const iosStandalone = nav.standalone === true;
   const mq = window.matchMedia && window.matchMedia("(display-mode: standalone)").matches;
   return iosStandalone || mq;
 }

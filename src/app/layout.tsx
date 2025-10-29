@@ -9,6 +9,20 @@ export const metadata: Metadata = {
   title: 'PriceList',
   description: 'Browse items, build quotes, and generate invoices',
   manifest: '/manifest.json',
+  themeColor: '#2563eb',
+  icons: {
+    // Use 192x192 for Apple touch icon if 180x180 is unavailable
+    apple: '/icons/icon-192.png',
+    icon: [
+      { url: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+  },
+  appleWebApp: {
+    capable: true,
+    title: 'PriceList',
+    statusBarStyle: 'default',
+  },
 }
 
 export const viewport = {
