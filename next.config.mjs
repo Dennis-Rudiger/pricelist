@@ -2,6 +2,7 @@ import withPWA from 'next-pwa';
 import runtimeCaching from 'next-pwa/cache.js';
 
 const isDev = process.env.NODE_ENV === 'development';
+const isVercel = !!process.env.VERCEL;
 
 const withPWAConfigured = withPWA({
   dest: 'public',
@@ -17,6 +18,6 @@ const withPWAConfigured = withPWA({
 
 export default withPWAConfigured({
   reactStrictMode: true,
-  // Workaround Windows file lock on .next/trace: use a custom distDir locally
-  distDir: '.next-build',
+  // Workaround Windows file lock on .next/trace: use a custom distDir locally only
+  ...(isVercel ? {} : { distDir: '.next-build' }),
 });

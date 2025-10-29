@@ -51,467 +51,7 @@
       ]
     },
     {
-      "category_name": "ELECTRICALS MATERIALS ELECTRICALS",
-      "products": [
-        {
-          "item_code": "INS004",
-          "item_description": "Insulating Tape Yellow Big",
-          "price": "150"
-        },
-        {
-          "item_code": "INS008",
-          "item_description": "Insulating Tape White Big",
-          "price": "150"
-        },
-        {
-          "item_code": "INS012",
-          "item_description": "Instant Shower Ener 4t",
-          "price": "3200"
-        },
-        {
-          "item_code": "INS015",
-          "item_description": "Instant Shower Lorenzeti",
-          "price": "2500"
-        },
-        {
-          "item_code": "INS018",
-          "item_description": "Insulating Tape Green Big",
-          "price": "150"
-        },
-        {
-          "item_code": "INS019",
-          "item_description": "Insulating Tape Red Big",
-          "price": "150"
-        },
-        {
-          "item_code": "LED004",
-          "item_description": "Flourescent Led Tubes 2ft",
-          "price": ""
-        },
-        {
-          "item_code": "LED005",
-          "item_description": "Fllourescent Led Tubes 4ft",
-          "price": ""
-        },
-        {
-          "item_code": "MET006",
-          "item_description": "Meter Box Powdered 13X13",
-          "price": ""
-        },
-        {
-          "item_code": "MIN001",
-          "item_description": "Mini Trunking",
-          "price": ""
-        },
-        {
-          "item_code": "ADA002",
-          "item_description": "Adaptor Box 150x150x70",
-          "price": "150"
-        },
-        {
-          "item_code": "ADA003",
-          "item_description": "Adaptor Box 200x200x80",
-          "price": "250"
-        },
-        {
-          "item_code": "ADA005",
-          "item_description": "Adaptor Box 255x200x80mm",
-          "price": "250"
-        },
-        {
-          "item_code": "ADA006",
-          "item_description": "Adaptor Box 300x250x120mm",
-          "price": "300"
-        },
-        {
-          "item_code": "BAL010",
-          "item_description": "Ball Fitting Bulb",
-          "price": ""
-        },
-        {
-          "item_code": "BLA017",
-          "item_description": "Blanking Cover Single",
-          "price": "20"
-        },
-        {
-          "item_code": "BUL001",
-          "item_description": "Bulb Energy Saver Pin 7w",
-          "price": "200"
-        },
-        {
-          "item_code": "BUL002",
-          "item_description": "Bulb Energy Saver Pin 9w",
-          "price": "150"
-        },
-        {
-          "item_code": "BUL003",
-          "item_description": "Bulb Energy Saver Screw 7w",
-          "price": "200"
-        },
-        {
-          "item_code": "BUL011",
-          "item_description": "Bulb Holder Straight",
-          "price": "150"
-        },
-        {
-          "item_code": "CAB002",
-          "item_description": "Cable Clips 12mm",
-          "price": "200"
-        },
-        {
-          "item_code": "CAB006",
-          "item_description": "Cable Ties 10",
-          "price": "200"
-        },
-        {
-          "item_code": "CAB007",
-          "item_description": "Cable Ties 12",
-          "price": "200"
-        },
-        {
-          "item_code": "CAB008",
-          "item_description": "Cable Ties 14",
-          "price": "250"
-        },
-        {
-          "item_code": "CAB009",
-          "item_description": "Cable Ties 6",
-          "price": "200"
-        },
-        {
-          "item_code": "CAB010",
-          "item_description": "Cable Ties 8",
-          "price": "200"
-        },
-        {
-          "item_code": "CIR008",
-          "item_description": "Circular Box 3way 25mm",
-          "price": "45"
-        },
-        {
-          "item_code": "CIR009",
-          "item_description": "Circular Box 4way 20mm",
-          "price": "45"
-        },
-        {
-          "item_code": "CON001",
-          "item_description": "Conduit 20mm",
-          "price": "120"
-        },
-        {
-          "item_code": "CON003",
-          "item_description": "Conduit 32mm",
-          "price": ""
-        },
-        {
-          "item_code": "CON006",
-          "item_description": "Conduit Metro 20mm",
-          "price": "130"
-        },
-        {
-          "item_code": "CON007",
-          "item_description": "Conduit Metro 25mm",
-          "price": "230"
-        },
-        {
-          "item_code": "CON008",
-          "item_description": "Conduit Metro 32mm",
-          "price": "400"
-        },
-        {
-          "item_code": "CON010",
-          "item_description": "Conduit Metro 50mm",
-          "price": ""
-        },
-        {
-          "item_code": "CON014",
-          "item_description": "Consumer Unit 14way",
-          "price": "3300"
-        },
-        {
-          "item_code": "CON015",
-          "item_description": "Consumer Unit 4way",
-          "price": "2000"
-        },
-        {
-          "item_code": "CON017",
-          "item_description": "Consumer Unit 8way",
-          "price": "2800"
-        },
-        {
-          "item_code": "COO002",
-          "item_description": "Cooker Unit Socket",
-          "price": ""
-        },
-        {
-          "item_code": "COU009",
-          "item_description": "Couplers 20mm",
-          "price": "8"
-        },
-        {
-          "item_code": "COU010",
-          "item_description": "Couplers 25mm",
-          "price": "15"
-        },
-        {
-          "item_code": "COU011",
-          "item_description": "Couplers 32mm",
-          "price": "20"
-        }
-      ]
-    },
-    {
-      "category_name": "ELECTRICALS ELECTRICALS MATERIALS",
-      "products": [
-        {
-          "item_code": "COU012",
-          "item_description": "Couplers 38mm",
-          "price": "30"
-        },
-        {
-          "item_code": "COU013",
-          "item_description": "Couplers 50mm",
-          "price": "60"
-        },
-        {
-          "item_code": "CUT001",
-          "item_description": "Cut Out Double",
-          "price": ""
-        },
-        {
-          "item_code": "CUT002",
-          "item_description": "Cut Out Single",
-          "price": ""
-        },
-        {
-          "item_code": "DOO001",
-          "item_description": "Door Bell Ding Dong",
-          "price": ""
-        },
-        {
-          "item_code": "ELE001",
-          "item_description": "Elec Bend 20mm",
-          "price": "20"
-        },
-        {
-          "item_code": "ELE002",
-          "item_description": "Elec Bend 25mm",
-          "price": "20"
-        },
-        {
-          "item_code": "ELE003",
-          "item_description": "Elec Bend 32mm",
-          "price": "30"
-        },
-        {
-          "item_code": "ELE004",
-          "item_description": "Elec Bend 38mm",
-          "price": "40"
-        },
-        {
-          "item_code": "ELE005",
-          "item_description": "Elec Bend 50mm",
-          "price": "60"
-        },
-        {
-          "item_code": "ELE006",
-          "item_description": "Elec Cable Flex 1.5mm mtrs",
-          "price": ""
-        },
-        {
-          "item_code": "ELE007",
-          "item_description": "Elec Cable Flex 2.5mm mtrs",
-          "price": ""
-        },
-        {
-          "item_code": "ELE009",
-          "item_description": "Elec Cable Single 1.5mm Black Roll",
-          "price": ""
-        },
-        {
-          "item_code": "ELE010",
-          "item_description": "Elec Cable Single 1.5mm Green Roll",
-          "price": ""
-        },
-        {
-          "item_code": "ELE013",
-          "item_description": "Elec Cable Single 2.5mm Red mtrs",
-          "price": ""
-        },
-        {
-          "item_code": "ELE015",
-          "item_description": "Elec Cable Single 2.5mm Green Roll",
-          "price": ""
-        },
-        {
-          "item_code": "ELE018",
-          "item_description": "Elec Cable Twin 1.5mm Roll Grey",
-          "price": ""
-        },
-        {
-          "item_code": "ELE019",
-          "item_description": "Elec Cable Twin 2.5mm Roll",
-          "price": ""
-        },
-        {
-          "item_code": "FLO006",
-          "item_description": "Flourescent Fitting 2ft",
-          "price": ""
-        },
-        {
-          "item_code": "FLO007",
-          "item_description": "Flourescent Fitting 4ft",
-          "price": ""
-        },
-        {
-          "item_code": "FRI001",
-          "item_description": "Fridge Guard",
-          "price": "1500"
-        },
-        {
-          "item_code": "ROU003",
-          "item_description": "Round Covers Black Large",
-          "price": ""
-        },
-        {
-          "item_code": "ROU004",
-          "item_description": "Round Covers Black Small",
-          "price": ""
-        },
-        {
-          "item_code": "ROU005",
-          "item_description": "Round Covers White Large",
-          "price": ""
-        },
-        {
-          "item_code": "ROU006",
-          "item_description": "Round Covers White Small",
-          "price": ""
-        },
-        {
-          "item_code": "SOC002",
-          "item_description": "Socket Single",
-          "price": ""
-        },
-        {
-          "item_code": "STR003",
-          "item_description": "Strip Connector 30a",
-          "price": ""
-        },
-        {
-          "item_code": "SW1003",
-          "item_description": "Switch 3 Gang",
-          "price": ""
-        },
-        {
-          "item_code": "SW1005",
-          "item_description": "Switch Box Double",
-          "price": ""
-        },
-        {
-          "item_code": "SW1006",
-          "item_description": "Switch Box Single",
-          "price": ""
-        },
-        {
-          "item_code": "TRO001",
-          "item_description": "Tronic Led Fitting 4ft",
-          "price": ""
-        },
-        {
-          "item_code": "TRO002",
-          "item_description": "Tronic Led Tube 4ft",
-          "price": ""
-        },
-        {
-          "item_code": "WAT001",
-          "item_description": "Water Heater Switch 20a",
-          "price": ""
-        },
-        {
-          "item_code": "MAC005",
-          "item_description": "MACHINE SCREW 2BA PKT",
-          "price": ""
-        },
-        {
-          "item_code": "CIR011",
-          "item_description": "Circular Box 1 way 20MM",
-          "price": ""
-        },
-        {
-          "item_code": "FLE014",
-          "item_description": "Flex conduit Roll 20mm black",
-          "price": ""
-        },
-        {
-          "item_code": "FLE015",
-          "item_description": "Flex conduit Roll 25mm black",
-          "price": ""
-        },
-        {
-          "item_code": "FLE016",
-          "item_description": "Flex conduit Roll 20mm White",
-          "price": ""
-        },
-        {
-          "item_code": "FLE017",
-          "item_description": "Flex conduit Roll 25mm white",
-          "price": ""
-        },
-        {
-          "item_code": "CON028",
-          "item_description": "Consumer Unit 12way",
-          "price": ""
-        },
-        {
-          "item_code": "ELE037",
-          "item_description": "ELEC CABLE FLEX 1.5MM ROLL",
-          "price": ""
-        },
-        {
-          "item_code": "ELE038",
-          "item_description": "ELEC CABLE FLEX 2.5MM ROLL",
-          "price": ""
-        },
-        {
-          "item_code": "TRO010",
-          "item_description": "Tronic Led Fitting 2ft",
-          "price": ""
-        },
-        {
-          "item_code": "TRO011",
-          "item_description": "Tronic Led Tube 2ft",
-          "price": ""
-        },
-        {
-          "item_code": "MCB002",
-          "item_description": "Mcb 20A S/Pole",
-          "price": ""
-        },
-        {
-          "item_code": "MCB003",
-          "item_description": "Mcb 32A S/Pole",
-          "price": ""
-        },
-        {
-          "item_code": "STR016",
-          "item_description": "Strip Connector 20a",
-          "price": ""
-        },
-        {
-          "item_code": "MCB006",
-          "item_description": "Mcb 63 A S/Pole",
-          "price": ""
-        },
-        {
-          "item_code": "MCB007",
-          "item_description": "Mcb 100 A D/Pole",
-          "price": ""
-        }
-      ]
-    },
-    {
-      "category_name": "GENERAL HARDWA GENERAL HARDWARE",
+      "category_name": "GENERAL HARDWARE",
       "products": [
         {
           "item_code": "EAR002",
@@ -1371,7 +911,7 @@
       ]
     },
     {
-      "category_name": "JUA KALI PRODUCT JUA KALI PRODUCTS",
+      "category_name": "JUA KALI PRODUCTS",
       "products": [
         {
           "item_code": "BUT005",
@@ -1466,7 +1006,7 @@
       ]
     },
     {
-      "category_name": "LOCKS & ACCESSO LOCKS & ACCESSORIES",
+      "category_name": "LOCKS & ACCESSORIES",
       "products": [
         {
           "item_code": "LOC002",
@@ -1556,7 +1096,7 @@
       ]
     },
     {
-      "category_name": "MORTAR AND ADHE MORTAR AND ADHESIVES",
+      "category_name": "MORTAR AND ADHESIVES",
       "products": [
         {
           "item_code": "COA001",
@@ -1646,7 +1186,7 @@
       ]
     },
     {
-      "category_name": "NAILS NAILS",
+      "category_name": "NAILS",
       "products": [
         {
           "item_code": "ΝΑΙ011",
@@ -1731,7 +1271,7 @@
       ]
     },
     {
-      "category_name": "PAINT ACCESSORIE PAINT ACCESSORIES",
+      "category_name": "PAINT ACCESSORIES",
       "products": [
         {
           "item_code": "SPR019",
@@ -1881,7 +1421,7 @@
       ]
     },
     {
-      "category_name": "PAINTS PAINTS",
+      "category_name": "PAINTS",
       "products": [
         {
           "item_code": "BAS006",
@@ -2531,7 +2071,7 @@
       ]
     },
     {
-      "category_name": "PLUMBING MATERI PLUMBING MATERIALS",
+      "category_name": "PLUMBING MATERIALS",
       "products": [
         {
           "item_code": "FLE012",
@@ -3636,7 +3176,7 @@
       ]
     },
     {
-      "category_name": "STEEL STEEL",
+      "category_name": "STEEL",
       "products": [
         {
           "item_code": "TUB046",
@@ -3711,7 +3251,7 @@
         {
           "item_code": "TUB003",
           "item_description": "Tube 11/2x11/2x16g",
-          "price": ""
+          "price": "1400"
         },
         {
           "item_code": "TUB004",
@@ -3721,17 +3261,17 @@
         {
           "item_code": "TUB006",
           "item_description": "Tube 11/2x1x16g",
-          "price": ""
+          "price": "1300"
         },
         {
           "item_code": "TUB011",
           "item_description": "Tube 1x1x16g",
-          "price": ""
+          "price": "950"
         },
         {
           "item_code": "TUB012",
           "item_description": "Tube 1x1x18g",
-          "price": ""
+          "price": "800"
         },
         {
           "item_code": "TUB014",
@@ -3741,7 +3281,7 @@
         {
           "item_code": "TUB018",
           "item_description": "Tube 2x2x16g",
-          "price": ""
+          "price": "1650"
         },
         {
           "item_code": "TUB020",
@@ -3776,27 +3316,27 @@
         {
           "item_code": "FLA013",
           "item_description": "Flat 1x1/4",
-          "price": ""
+          "price": "850"
         },
         {
           "item_code": "FLA016",
           "item_description": "Flat 2x1/8",
-          "price": ""
+          "price": "1050"
         },
         {
           "item_code": "FLA017",
           "item_description": "Flat 3/4x1/4",
-          "price": ""
+          "price": "800"
         },
         {
           "item_code": "FLA018",
           "item_description": "Flat 3/4x1/8",
-          "price": ""
+          "price": "550"
         }
       ]
     },
     {
-      "category_name": "TILES & ACCESSORIESTILES & ACCESSORIES",
+      "category_name": "TILES & ACCESSORIES",
       "products": [
         {
           "item_code": "COR004",
@@ -3821,17 +3361,17 @@
         {
           "item_code": "TIL010",
           "item_description": "Tile Spacers 2.5mm",
-          "price": ""
+          "price": "100"
         },
         {
           "item_code": "TIL012",
           "item_description": "Tile Spacers 3mm",
-          "price": ""
+          "price": "100"
         }
       ]
     },
     {
-      "category_name": "TIMBER PRODUCTS TIMBER PRODUCTS",
+      "category_name": "TIMBER PRODUCTS",
       "products": [
         {
           "item_code": "BUT004",
@@ -3861,7 +3401,7 @@
         {
           "item_code": "GYP006",
           "item_description": "Gypsum Board Hada",
-          "price": ""
+          "price": "750"
         },
         {
           "item_code": "GYP012",
@@ -3881,7 +3421,7 @@
         {
           "item_code": "MAR001",
           "item_description": "Marine Board",
-          "price": ""
+          "price": "1900"
         },
         {
           "item_code": "MDF001",
@@ -3931,7 +3471,7 @@
       ]
     },
     {
-      "category_name": "TOOLS & MACHINERYTOOLS & MACHINERY",
+      "category_name": "TOOLS & MACHINERY",
       "products": [
         {
           "item_code": "DEW008",
@@ -4066,17 +3606,17 @@
         {
           "item_code": "SOF004",
           "item_description": "Soft Broom Without Handle",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "HAN006",
           "item_description": "Hard Broom With Handle",
-          "price": ""
+          "price": "450"
         },
         {
           "item_code": "HAN007",
           "item_description": "Hard Broom Without Handle",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "FOR006",
@@ -4116,7 +3656,7 @@
         {
           "item_code": "BRU013",
           "item_description": "Brush Fixtec 5",
-          "price": ""
+          "price": "300"
         },
         {
           "item_code": "RAK007",
@@ -4506,62 +4046,62 @@
         {
           "item_code": "MOP003",
           "item_description": "Mop Bucket",
-          "price": ""
+          "price": "650"
         },
         {
           "item_code": "MOP006",
           "item_description": "Mop Teepee",
-          "price": ""
+          "price": "450"
         },
         {
           "item_code": "BRU001",
           "item_description": "Brush Fixtec 1",
-          "price": ""
+          "price": "100"
         },
         {
           "item_code": "BRU002",
           "item_description": "Brush Fixtec 2",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "BRU003",
           "item_description": "Brush Fixtec 3",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "BRU004",
           "item_description": "Brush Fixtec 4",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "BRU005",
           "item_description": "Brush Fixtec 6",
-          "price": ""
+          "price": "350"
         },
         {
           "item_code": "BRU007",
           "item_description": "Brush Premium 2",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "BRU009",
           "item_description": "Brush Premium 3",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "BRU010",
           "item_description": "Brush Premium 4",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "BRU011",
           "item_description": "Brush Premium 5",
-          "price": ""
+          "price": "300"
         },
         {
           "item_code": "BRU012",
           "item_description": "Brush Premium 6",
-          "price": ""
+          "price": "350"
         },
         {
           "item_code": "CHI008",
@@ -4611,7 +4151,7 @@
         {
           "item_code": "CUT010",
           "item_description": "Grinding Disk 7.",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "CUT011",
@@ -4621,7 +4161,7 @@
         {
           "item_code": "CUT013",
           "item_description": "Cutting Disk Slim 9",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "DRI002",
@@ -4686,12 +4226,12 @@
         {
           "item_code": "FIL001",
           "item_description": "File 10 jk",
-          "price": ""
+          "price": "250"
         },
         {
           "item_code": "FIL003",
           "item_description": "File 8 jk",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "FLA001",
@@ -4736,12 +4276,12 @@
         {
           "item_code": "HAN004",
           "item_description": "Handsaw 18",
-          "price": ""
+          "price": "500"
         },
         {
           "item_code": "HIL002",
           "item_description": "Hilt Bit 12mm",
-          "price": ""
+          "price": "450"
         },
         {
           "item_code": "HIL003",
@@ -4776,12 +4316,12 @@
         {
           "item_code": "PLI001",
           "item_description": "Pliers H.G",
-          "price": ""
+          "price": "350"
         },
         {
           "item_code": "PLI003",
           "item_description": "Pliers Red",
-          "price": ""
+          "price": "300"
         },
         {
           "item_code": "RAK002",
@@ -4796,17 +4336,17 @@
         {
           "item_code": "ROU007",
           "item_description": "Round File",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "SCR003",
           "item_description": "Scrapper 2",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "SCR005",
           "item_description": "Scrapper 3",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "SCR009",
@@ -4816,17 +4356,17 @@
         {
           "item_code": "SHE001",
           "item_description": "Shears Adjustable H/G",
-          "price": ""
+          "price": "1500"
         },
         {
           "item_code": "SHE003",
           "item_description": "Shears Fixed",
-          "price": ""
+          "price": "1200"
         },
         {
           "item_code": "SIL001",
           "item_description": "Silicon Gun",
-          "price": ""
+          "price": "350"
         },
         {
           "item_code": "SLE001",
@@ -4856,12 +4396,12 @@
         {
           "item_code": "SOF003",
           "item_description": "Soft Broom With Handle",
-          "price": ""
+          "price": "450"
         },
         {
           "item_code": "SPA001",
           "item_description": "Spade Imported",
-          "price": ""
+          "price": "500"
         },
         {
           "item_code": "SPA007",
@@ -4916,17 +4456,17 @@
         {
           "item_code": "TAP015",
           "item_description": "Tape Measure 3m",
-          "price": ""
+          "price": "150"
         },
         {
           "item_code": "TAP017",
           "item_description": "Tape Measure 5m",
-          "price": ""
+          "price": "200"
         },
         {
           "item_code": "TAP018",
           "item_description": "Tape Measure 7.5m",
-          "price": ""
+          "price": "300"
         },
         {
           "item_code": "TAP019",
@@ -4936,12 +4476,12 @@
         {
           "item_code": "TES001",
           "item_description": "Tester Big",
-          "price": ""
+          "price": "100"
         },
         {
           "item_code": "TES003",
           "item_description": "Tester Small",
-          "price": ""
+          "price": "50"
         },
         {
           "item_code": "TRO008",
@@ -4951,27 +4491,27 @@
         {
           "item_code": "WHE003",
           "item_description": "Wheelbarrow H/G",
-          "price": ""
+          "price": "5000"
         },
         {
           "item_code": "WHE005",
           "item_description": "Wheelbarrow Super H/G",
-          "price": ""
+          "price": "6500"
         },
         {
           "item_code": "WHE009",
           "item_description": "Wheelbarrow Wheel Tuktuk",
-          "price": ""
+          "price": "4000"
         },
         {
           "item_code": "WIR001",
           "item_description": "Wire Brush",
-          "price": ""
+          "price": "150"
         }
       ]
     },
     {
-      "category_name": "WELDING MATERIALSWELDING MATERIALS",
+      "category_name": "WELDING MATERIALS",
       "products": [
         {
           "item_code": "WEL005",
@@ -5037,6 +4577,996 @@
           "item_code": "WIR004",
           "item_description": "Wire Mesh M/G",
           "price": ""
+        }
+      ]
+    },
+    {
+      "category_name": "ELECTRICALS MATERIALS",
+      "products": [
+        {
+          "item_code": "ADA001",
+          "item_description": "Adaptor Box 100x100x70",
+          "price": "200"
+        },
+        {
+          "item_code": "ADA002",
+          "item_description": "Adaptor Box 150x150x70",
+          "price": "250"
+        },
+        {
+          "item_code": "ADA003",
+          "item_description": "Adaptor Box 200x200x80",
+          "price": "300"
+        },
+        {
+          "item_code": "ADA005",
+          "item_description": "Adaptor Box 255x200x80mm",
+          "price": "350"
+        },
+        {
+          "item_code": "ADA006",
+          "item_description": "Adaptor Box 300x250x120mm",
+          "price": "450"
+        },
+        {
+          "item_code": "BAL010",
+          "item_description": "Ball Fitting Bulb",
+          "price": "600"
+        },
+        {
+          "item_code": "BEL001",
+          "item_description": "Bell Ding Dong",
+          "price": "450"
+        },
+        {
+          "item_code": "BLA016",
+          "item_description": "Blanking Cover Double",
+          "price": "40"
+        },
+        {
+          "item_code": "BLA017",
+          "item_description": "Blanking Cover Single",
+          "price": "20"
+        },
+        {
+          "item_code": "BUL001",
+          "item_description": "Bulb Energy Saver Pin 7w",
+          "price": "200"
+        },
+        {
+          "item_code": "BUL002",
+          "item_description": "Bulb Energy Saver Pin 9w",
+          "price": "150"
+        },
+        {
+          "item_code": "BUL003",
+          "item_description": "Bulb Energy Saver Screw 7w",
+          "price": "200"
+        },
+        {
+          "item_code": "BUL004",
+          "item_description": "Bulb Eneryg Saver Screw 9w",
+          "price": "150"
+        },
+        {
+          "item_code": "BUL006",
+          "item_description": "Bulb Filament 4w",
+          "price": "450"
+        },
+        {
+          "item_code": "BUL007",
+          "item_description": "Bulb Holder Angle",
+          "price": "150"
+        },
+        {
+          "item_code": "BUL008",
+          "item_description": "Bulb Holder Ceiling Rose",
+          "price": "200"
+        },
+        {
+          "item_code": "BUL009",
+          "item_description": "Bulb Holder Pin",
+          "price": "150"
+        },
+        {
+          "item_code": "BUL010",
+          "item_description": "Bulb Holder Screw",
+          "price": "150"
+        },
+        {
+          "item_code": "BUL011",
+          "item_description": "Bulb Holder Straight",
+          "price": "150"
+        },
+        {
+          "item_code": "BUL012",
+          "item_description": "Bulbs 100w",
+          "price": "100"
+        },
+        {
+          "item_code": "BUL013",
+          "item_description": "Bulbs 40w",
+          "price": "100"
+        },
+        {
+          "item_code": "BUL014",
+          "item_description": "Bulbs 60w",
+          "price": "100"
+        },
+        {
+          "item_code": "BUL015",
+          "item_description": "Bulk Head Fitting",
+          "price": "1000"
+        },
+        {
+          "item_code": "CAB001",
+          "item_description": "Cable Clips 10mm",
+          "price": "200"
+        },
+        {
+          "item_code": "CAB002",
+          "item_description": "Cable Clips 12mm",
+          "price": "200"
+        },
+        {
+          "item_code": "CAB003",
+          "item_description": "Cable Clips 9mm",
+          "price": "200"
+        },
+        {
+          "item_code": "CAB005",
+          "item_description": "Cable Clips Round 10mm",
+          "price": "200"
+        },
+        {
+          "item_code": "CAB006",
+          "item_description": "Cable Ties 10",
+          "price": "250"
+        },
+        {
+          "item_code": "CAB007",
+          "item_description": "Cable Ties 12",
+          "price": "350"
+        },
+        {
+          "item_code": "CAB008",
+          "item_description": "Cable Ties 14",
+          "price": "400"
+        },
+        {
+          "item_code": "CAB009",
+          "item_description": "Cable Ties 6",
+          "price": "200"
+        },
+        {
+          "item_code": "CAB010",
+          "item_description": "Cable Ties 8",
+          "price": "200"
+        },
+        {
+          "item_code": "CAB011",
+          "item_description": "Cable Ties Pcs",
+          "price": "20"
+        },
+        {
+          "item_code": "CAB013",
+          "item_description": "CABLE TIES 4\"",
+          "price": "150"
+        },
+        {
+          "item_code": "CAB014",
+          "item_description": "Cable Clips 8mm",
+          "price": "200"
+        },
+        {
+          "item_code": "CIR001",
+          "item_description": "Circuit Breaker Single Mcb",
+          "price": "0"
+        },
+        {
+          "item_code": "CIR005",
+          "item_description": "Circular Box 1way 25mm",
+          "price": "30"
+        },
+        {
+          "item_code": "CIR006",
+          "item_description": "Circular Box 2way",
+          "price": "30"
+        },
+        {
+          "item_code": "CIR007",
+          "item_description": "Circular Box 3way 20mm",
+          "price": "40"
+        },
+        {
+          "item_code": "CIR008",
+          "item_description": "Circular Box 3way 25mm",
+          "price": "50"
+        },
+        {
+          "item_code": "CIR009",
+          "item_description": "Circular Box 4way 20mm",
+          "price": "40"
+        },
+        {
+          "item_code": "CIR010",
+          "item_description": "Circular Box 4way 25mm",
+          "price": "50"
+        },
+        {
+          "item_code": "CIR011",
+          "item_description": "Circular Box 1 way 20MM",
+          "price": "30"
+        },
+        {
+          "item_code": "CIR012",
+          "item_description": "Circuit breaker mcb 100A",
+          "price": "0"
+        },
+        {
+          "item_code": "CON001",
+          "item_description": "Conduit 20mm",
+          "price": "0"
+        },
+        {
+          "item_code": "CON002",
+          "item_description": "Conduit 25mm",
+          "price": "0"
+        },
+        {
+          "item_code": "CON003",
+          "item_description": "Conduit 32mm",
+          "price": "0"
+        },
+        {
+          "item_code": "CON004",
+          "item_description": "Conduit 38mm",
+          "price": "0"
+        },
+        {
+          "item_code": "CON006",
+          "item_description": "Conduit Metro 20mm",
+          "price": "130"
+        },
+        {
+          "item_code": "CON007",
+          "item_description": "Conduit Metro 25mm",
+          "price": "230"
+        },
+        {
+          "item_code": "CON008",
+          "item_description": "Conduit Metro 32mm",
+          "price": "400"
+        },
+        {
+          "item_code": "CON009",
+          "item_description": "Conduit Metro 38mm",
+          "price": "450"
+        },
+        {
+          "item_code": "CON010",
+          "item_description": "Conduit Metro 50mm",
+          "price": "750"
+        },
+        {
+          "item_code": "CON013",
+          "item_description": "Consumer Unit 10way",
+          "price": "3600"
+        },
+        {
+          "item_code": "CON014",
+          "item_description": "Consumer Unit 14way",
+          "price": "3800"
+        },
+        {
+          "item_code": "CON015",
+          "item_description": "Consumer Unit 4way",
+          "price": "2800"
+        },
+        {
+          "item_code": "CON016",
+          "item_description": "Consumer Unit 6way",
+          "price": "3000"
+        },
+        {
+          "item_code": "CON017",
+          "item_description": "Consumer Unit 8way",
+          "price": "3300"
+        },
+        {
+          "item_code": "CON018",
+          "item_description": "Consumer Unit Havels 12way",
+          "price": "0"
+        },
+        {
+          "item_code": "CON019",
+          "item_description": "Consumer Unit Havels 4way",
+          "price": "0"
+        },
+        {
+          "item_code": "CON020",
+          "item_description": "Consumer Unit Havels 6way",
+          "price": "0"
+        },
+        {
+          "item_code": "CON028",
+          "item_description": "Consumer Unit 12way",
+          "price": "3800"
+        },
+        {
+          "item_code": "COO001",
+          "item_description": "Cooker Unit H/G",
+          "price": "1400"
+        },
+        {
+          "item_code": "COO002",
+          "item_description": "Cooker Unit Socket",
+          "price": "1400"
+        },
+        {
+          "item_code": "COU007",
+          "item_description": "Coupler Threaded 20mm",
+          "price": "20"
+        },
+        {
+          "item_code": "COU008",
+          "item_description": "Coupler Threaded 25mm",
+          "price": "30"
+        },
+        {
+          "item_code": "COU009",
+          "item_description": "Couplers 20mm",
+          "price": "8"
+        },
+        {
+          "item_code": "COU010",
+          "item_description": "Couplers 25mm",
+          "price": "15"
+        },
+        {
+          "item_code": "COU011",
+          "item_description": "Couplers 32mm",
+          "price": "20"
+        },
+        {
+          "item_code": "COU012",
+          "item_description": "Couplers 38mm",
+          "price": "30"
+        },
+        {
+          "item_code": "COU013",
+          "item_description": "Couplers 50mm",
+          "price": "60"
+        },
+        {
+          "item_code": "CUT001",
+          "item_description": "Cut Out Double",
+          "price": "0"
+        },
+        {
+          "item_code": "CUT002",
+          "item_description": "Cut Out Single",
+          "price": "0"
+        },
+        {
+          "item_code": "CUT004",
+          "item_description": "Cutout Single",
+          "price": "0"
+        },
+        {
+          "item_code": "CUT005",
+          "item_description": "Cutout Twin",
+          "price": "0"
+        },
+        {
+          "item_code": "DOO001",
+          "item_description": "Door Bell Ding Dong",
+          "price": "700"
+        },
+        {
+          "item_code": "DOO002",
+          "item_description": "Door Bell Switch",
+          "price": "250"
+        },
+        {
+          "item_code": "DOO009",
+          "item_description": "Double Pole 100a",
+          "price": "600"
+        },
+        {
+          "item_code": "DOO010",
+          "item_description": "Double Pole 63a",
+          "price": "500"
+        },
+        {
+          "item_code": "ELE001",
+          "item_description": "Elec Bend 20mm",
+          "price": "20"
+        },
+        {
+          "item_code": "ELE002",
+          "item_description": "Elec Bend 25mm",
+          "price": "30"
+        },
+        {
+          "item_code": "ELE003",
+          "item_description": "Elec Bend 32mm",
+          "price": "40"
+        },
+        {
+          "item_code": "ELE004",
+          "item_description": "Elec Bend 38mm",
+          "price": "60"
+        },
+        {
+          "item_code": "ELE005",
+          "item_description": "Elec Bend 50mm",
+          "price": "100"
+        },
+        {
+          "item_code": "ELE006",
+          "item_description": "Elec Cable Flex 1.5mm mtrs",
+          "price": "200"
+        },
+        {
+          "item_code": "ELE007",
+          "item_description": "Elec Cable Flex 2.5mm mtrs",
+          "price": "240"
+        },
+        {
+          "item_code": "ELE008",
+          "item_description": "Elec Cable Single 1.5mm red mtr",
+          "price": "45"
+        },
+        {
+          "item_code": "ELE009",
+          "item_description": "Elec Cable Single 1.5mm Black Roll",
+          "price": "3900"
+        },
+        {
+          "item_code": "ELE010",
+          "item_description": "Elec Cable Single 1.5mm Green Roll",
+          "price": "3900"
+        },
+        {
+          "item_code": "ELE011",
+          "item_description": "Elec Cable Single 1.5mm Red Roll",
+          "price": "3900"
+        },
+        {
+          "item_code": "ELE012",
+          "item_description": "Elec Cable Single 10.0mm",
+          "price": "270"
+        },
+        {
+          "item_code": "ELE013",
+          "item_description": "Elec Cable Single 2.5mm Red mtrs",
+          "price": "65"
+        },
+        {
+          "item_code": "ELE014",
+          "item_description": "Elec Cable Single 2.5mm Black mtrs",
+          "price": "65"
+        },
+        {
+          "item_code": "ELE015",
+          "item_description": "Elec Cable Single 2.5mm Green Roll",
+          "price": "4900"
+        },
+        {
+          "item_code": "ELE016",
+          "item_description": "Elec Cable Single 2.5mm Red Roll",
+          "price": "4900"
+        },
+        {
+          "item_code": "ELE018",
+          "item_description": "Elec Cable Twin 1.5mm Roll Grey",
+          "price": "13000"
+        },
+        {
+          "item_code": "ELE019",
+          "item_description": "Elec Cable Twin 2.5mm Roll",
+          "price": "16000"
+        },
+        {
+          "item_code": "ELE025",
+          "item_description": "Elec Screws 4ba",
+          "price": "0"
+        },
+        {
+          "item_code": "ELE026",
+          "item_description": "Elec Top Plug",
+          "price": "150"
+        },
+        {
+          "item_code": "ELE028",
+          "item_description": "Electric Starter",
+          "price": "100"
+        },
+        {
+          "item_code": "ELE030",
+          "item_description": "Element Shower",
+          "price": "1000"
+        },
+        {
+          "item_code": "ELE031",
+          "item_description": "Elec Cable Single 1.5mm Black mtrs",
+          "price": "45"
+        },
+        {
+          "item_code": "ELE032",
+          "item_description": "Elec Cable Single 1.5mm Green mtrs",
+          "price": "45"
+        },
+        {
+          "item_code": "ELE033",
+          "item_description": "Elec Cable Single 2.5mm Black Roll",
+          "price": "4900"
+        },
+        {
+          "item_code": "ELE034",
+          "item_description": "Elec Cable Single 2.5mm Green mtrs",
+          "price": "65"
+        },
+        {
+          "item_code": "ELE035",
+          "item_description": "Elec Cable Twin 1.5mm Mtrs",
+          "price": "180"
+        },
+        {
+          "item_code": "ELE036",
+          "item_description": "Elec Cable Twin 2.5mm Mtrs",
+          "price": "230"
+        },
+        {
+          "item_code": "ELE037",
+          "item_description": "ELEC CABLE FLEX 1.5MM ROLL",
+          "price": "18000"
+        },
+        {
+          "item_code": "ELE038",
+          "item_description": "ELEC CABLE FLEX 2.5MM ROLL",
+          "price": "21600"
+        },
+        {
+          "item_code": "ELE039",
+          "item_description": "Elec Cable Single 4mm Black",
+          "price": ""
+        },
+        {
+          "item_code": "EXT001",
+          "item_description": "Extension 4way Surge",
+          "price": ""
+        },
+        {
+          "item_code": "EXT004",
+          "item_description": "Extension Ring",
+          "price": ""
+        },
+        {
+          "item_code": "EXT005",
+          "item_description": "Extension Socket 4way",
+          "price": "1000"
+        },
+        {
+          "item_code": "EXT006",
+          "item_description": "Extension Socket 6way",
+          "price": "1300"
+        },
+        {
+          "item_code": "FLE001",
+          "item_description": "Flex Conduit 25mm Mtrs",
+          "price": "80"
+        },
+        {
+          "item_code": "FLE013",
+          "item_description": "Flex conduit 20mm Mtrs",
+          "price": "70"
+        },
+        {
+          "item_code": "FLE014",
+          "item_description": "Flex conduit Roll 20mm black",
+          "price": "3500"
+        },
+        {
+          "item_code": "FLE015",
+          "item_description": "Flex conduit Roll 25mm black",
+          "price": "4000"
+        },
+        {
+          "item_code": "FLE016",
+          "item_description": "Flex conduit Roll 20mm White",
+          "price": "3500"
+        },
+        {
+          "item_code": "FLE017",
+          "item_description": "Flex conduit Roll 25mm white",
+          "price": "4000"
+        },
+        {
+          "item_code": "FLO002",
+          "item_description": "Flood Light Led 30w",
+          "price": ""
+        },
+        {
+          "item_code": "FLO003",
+          "item_description": "Flood Light Led 50w",
+          "price": ""
+        },
+        {
+          "item_code": "FLO006",
+          "item_description": "Flourescent Fitting 2ft",
+          "price": "350"
+        },
+        {
+          "item_code": "FLO007",
+          "item_description": "Flourescent Fitting 4ft",
+          "price": "600"
+        },
+        {
+          "item_code": "FLO010",
+          "item_description": "Flourescent Tube 2ft",
+          "price": "250"
+        },
+        {
+          "item_code": "FLO011",
+          "item_description": "Flourescent Tube 4ft",
+          "price": "350"
+        },
+        {
+          "item_code": "FRI001",
+          "item_description": "Fridge Guard",
+          "price": "1500"
+        },
+        {
+          "item_code": "IND001",
+          "item_description": "Ind Socket Single Phase",
+          "price": "1200"
+        },
+        {
+          "item_code": "IND002",
+          "item_description": "Ind Socket Three Phase",
+          "price": "1500"
+        },
+        {
+          "item_code": "IND003",
+          "item_description": "Industrial Socket Two Phase",
+          "price": "1400"
+        },
+        {
+          "item_code": "INS001",
+          "item_description": "Insulatin Tape Black Big",
+          "price": "150"
+        },
+        {
+          "item_code": "INS002",
+          "item_description": "Insulating Tape Black Small",
+          "price": "80"
+        },
+        {
+          "item_code": "INS004",
+          "item_description": "Insulating Tape Yellow Big",
+          "price": "150"
+        },
+        {
+          "item_code": "INS008",
+          "item_description": "Insulating Tape White Big",
+          "price": "150"
+        },
+        {
+          "item_code": "INS012",
+          "item_description": "Instant Shower Ener 4t",
+          "price": "3200"
+        },
+        {
+          "item_code": "INS013",
+          "item_description": "Instant Shower Fame",
+          "price": "0"
+        },
+        {
+          "item_code": "INS015",
+          "item_description": "Instant Shower Lorenzeti",
+          "price": "2500"
+        },
+        {
+          "item_code": "INS018",
+          "item_description": "Insulating Tape Green Big",
+          "price": "150"
+        },
+        {
+          "item_code": "INS019",
+          "item_description": "Insulating Tape Red Big",
+          "price": "80"
+        },
+        {
+          "item_code": "INT001",
+          "item_description": "TV Outlet",
+          "price": "250"
+        },
+        {
+          "item_code": "LED001",
+          "item_description": "Flourescent Led Fittings 2ft",
+          "price": "750"
+        },
+        {
+          "item_code": "LED002",
+          "item_description": "Flourescent Led Fittings 4ft",
+          "price": "1200"
+        },
+        {
+          "item_code": "LED003",
+          "item_description": "Led Lights 10w",
+          "price": "0"
+        },
+        {
+          "item_code": "LED004",
+          "item_description": "Flourescent Led Fittings 2ft",
+          "price": "200"
+        },
+        {
+          "item_code": "LED005",
+          "item_description": "Fllourescent Led Fittings 4ft",
+          "price": "300"
+        },
+        {
+          "item_code": "LOO001",
+          "item_description": "Looping Boxes",
+          "price": "40"
+        },
+        {
+          "item_code": "M.C001",
+          "item_description": "M.C.B Rail",
+          "price": "450"
+        },
+        {
+          "item_code": "MAC002",
+          "item_description": "Machine Screw 2ba pcs",
+          "price": "20"
+        },
+        {
+          "item_code": "MAC003",
+          "item_description": "Machine Screw 4.0 Pcs",
+          "price": "20"
+        },
+        {
+          "item_code": "MAC004",
+          "item_description": "Machine Screw 4ba",
+          "price": "450"
+        },
+        {
+          "item_code": "MAC005",
+          "item_description": "MACHINE SCREW 2BA PKT",
+          "price": "450"
+        },
+        {
+          "item_code": "MCB001",
+          "item_description": "Mcb 63 A D/Pole",
+          "price": "500"
+        },
+        {
+          "item_code": "MCB002",
+          "item_description": "Mcb 20A S/Pole",
+          "price": "300"
+        },
+        {
+          "item_code": "MCB003",
+          "item_description": "Mcb 32A S/Pole",
+          "price": "350"
+        },
+        {
+          "item_code": "MCB004",
+          "item_description": "MCB 10 AMP",
+          "price": "200"
+        },
+        {
+          "item_code": "MCB005",
+          "item_description": "MCB 16 AMP",
+          "price": "250"
+        },
+        {
+          "item_code": "MCB006",
+          "item_description": "Mcb 63 A S/Pole",
+          "price": "450"
+        },
+        {
+          "item_code": "MCB007",
+          "item_description": "Mcb 100 A D/Pole",
+          "price": "600"
+        },
+        {
+          "item_code": "MET006",
+          "item_description": "Meter Box Powdered 13X13",
+          "price": "4200"
+        },
+        {
+          "item_code": "MET007",
+          "item_description": "Meter Box Powdered Big",
+          "price": "4500"
+        },
+        {
+          "item_code": "MET008",
+          "item_description": "Meter Liner",
+          "price": ""
+        },
+        {
+          "item_code": "MIN001",
+          "item_description": "Mini Trunking",
+          "price": "150"
+        },
+        {
+          "item_code": "MUL001",
+          "item_description": "Multi Plug",
+          "price": "350"
+        },
+        {
+          "item_code": "PAT001",
+          "item_description": "Pattress Double Deep",
+          "price": "60"
+        },
+        {
+          "item_code": "PAT002",
+          "item_description": "Pattress Double Shallow",
+          "price": "40"
+        },
+        {
+          "item_code": "PAT003",
+          "item_description": "Pattress Single Deep",
+          "price": "40"
+        },
+        {
+          "item_code": "PAT004",
+          "item_description": "Pattress Single Shallow",
+          "price": "20"
+        },
+        {
+          "item_code": "PHO001",
+          "item_description": "Photocell Switch",
+          "price": "1500"
+        },
+        {
+          "item_code": "POW001",
+          "item_description": "Power Guard",
+          "price": "1000"
+        },
+        {
+          "item_code": "ROU003",
+          "item_description": "Round Covers Black Large",
+          "price": "20"
+        },
+        {
+          "item_code": "ROU004",
+          "item_description": "Round Covers Black Small",
+          "price": "15"
+        },
+        {
+          "item_code": "ROU005",
+          "item_description": "Round Covers White Large",
+          "price": "20"
+        },
+        {
+          "item_code": "ROU006",
+          "item_description": "Round Covers White Small",
+          "price": "15"
+        },
+        {
+          "item_code": "SEN001",
+          "item_description": "Motion Sensor",
+          "price": "1500"
+        },
+        {
+          "item_code": "SOC001",
+          "item_description": "Socket Double",
+          "price": "450"
+        },
+        {
+          "item_code": "SOC002",
+          "item_description": "Socket Single",
+          "price": "250"
+        },
+        {
+          "item_code": "STR003",
+          "item_description": "Strip Connector 30a",
+          "price": "150"
+        },
+        {
+          "item_code": "STR004",
+          "item_description": "Strip Connector 60a",
+          "price": "250"
+        },
+        {
+          "item_code": "STR016",
+          "item_description": "Strip Connector 20a",
+          "price": "200"
+        },
+        {
+          "item_code": "STR017",
+          "item_description": "Strip Connector 100a",
+          "price": "300"
+        },
+        {
+          "item_code": "SW1001",
+          "item_description": "Switch 1 Gang",
+          "price": "150"
+        },
+        {
+          "item_code": "SW1002",
+          "item_description": "Switch 2 Gang",
+          "price": "200"
+        },
+        {
+          "item_code": "SW1003",
+          "item_description": "Switch 3 Gang",
+          "price": "250"
+        },
+        {
+          "item_code": "SW1004",
+          "item_description": "Switch 4 Gang",
+          "price": "350"
+        },
+        {
+          "item_code": "SW1005",
+          "item_description": "Switch Box Double",
+          "price": "60"
+        },
+        {
+          "item_code": "SW1006",
+          "item_description": "Switch Box Single",
+          "price": "40"
+        },
+        {
+          "item_code": "TRO001",
+          "item_description": "Tronic Led Fitting 4ft",
+          "price": "1200"
+        },
+        {
+          "item_code": "TRO002",
+          "item_description": "Tronic Led Tube 4ft",
+          "price": "350"
+        },
+        {
+          "item_code": "TRO010",
+          "item_description": "Tronic Led Fitting 2ft",
+          "price": "700"
+        },
+        {
+          "item_code": "TRO011",
+          "item_description": "Tronic Led Tube 2ft",
+          "price": "300"
+        },
+        {
+          "item_code": "TRU002",
+          "item_description": "Trunking 25x40",
+          "price": "400"
+        },
+        {
+          "item_code": "TRU004",
+          "item_description": "Trunking 75x50",
+          "price": "1700"
+        },
+        {
+          "item_code": "WAT001",
+          "item_description": "Water Heater Switch 20a",
+          "price": "350"
+        },
+        {
+          "item_code": "WAT002",
+          "item_description": "Water Heater Switch 45a",
+          "price": "450"
+        },
+        {
+          "item_code": "WAT015",
+          "item_description": "Waterproof Socket Single",
+          "price": "900"
+        },
+        {
+          "item_code": "WAT016",
+          "item_description": "Waterproof Socket Twin",
+          "price": "2200"
+        },
+        {
+          "item_code": "WAT017",
+          "item_description": "Waterproof Switch",
+          "price": "550"
         }
       ]
     }
