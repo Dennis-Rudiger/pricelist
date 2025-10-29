@@ -13,11 +13,30 @@ export default function SearchBar({ placeholder = 'Search items...', onChange }:
     return () => clearTimeout(t)
   }, [q, onChange])
   return (
-    <input
-      className="w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-sm outline-none ring-brand/30 focus:ring"
-      placeholder={placeholder}
-      value={q}
-      onChange={(e: ChangeEvent<HTMLInputElement>) => setQ(e.target.value)}
-    />
+    <div className="relative">
+      <input
+        type="search"
+        inputMode="search"
+        autoComplete="off"
+        className="w-full rounded-lg border border-gray-300 bg-white pl-10 pr-9 py-3 text-base outline-none ring-brand/30 focus:ring md:text-sm md:py-2"
+        placeholder={placeholder}
+        value={q}
+        onChange={(e: ChangeEvent<HTMLInputElement>) => setQ(e.target.value)}
+        aria-label="Search"
+      />
+      <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" aria-hidden>
+        🔎
+      </span>
+      {q && (
+        <button
+          type="button"
+          onClick={() => setQ('')}
+          aria-label="Clear search"
+          className="absolute right-2 top-1/2 -translate-y-1/2 rounded-full p-1 text-gray-500 hover:bg-gray-100"
+        >
+          ✕
+        </button>
+      )}
+    </div>
   )
 }

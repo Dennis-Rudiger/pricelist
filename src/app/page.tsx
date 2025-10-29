@@ -3,6 +3,7 @@ import React from 'react'
 import SearchBar from '@/components/SearchBar'
 import ItemRow from '@/components/ItemRow'
 import CartSummary from '@/components/CartSummary'
+import MobileCartBar from '@/components/MobileCartBar'
 import CategoryFilter from '@/components/CategoryFilter'
 import { items } from '@/data/items'
 
@@ -24,7 +25,7 @@ export default function Page() {
   }, [query, category])
 
   return (
-    <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-4">
+    <div className="grid gap-4 pb-20 md:grid-cols-3 lg:grid-cols-4">
       <div className="md:col-span-2 lg:col-span-3">
         <div className="mb-3 flex flex-wrap items-center justify-between gap-3">
           <div className="min-w-64 flex-1"><SearchBar onChange={setQuery} /></div>
@@ -43,9 +44,10 @@ export default function Page() {
           )}
         </div>
       </div>
-      <div className="md:col-span-1">
+      <div className="md:col-span-1 hidden md:block">
         <CartSummary />
       </div>
+      <MobileCartBar />
     </div>
   )
 }
