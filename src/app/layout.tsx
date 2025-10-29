@@ -3,6 +3,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import ClientBoot from '@/components/ClientBoot'
+import InstallApp from '@/components/InstallApp'
 
 export const metadata: Metadata = {
   title: 'PriceList',
@@ -23,10 +24,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="no-print sticky top-0 z-10 border-b border-brand/10 bg-gradient-to-r from-brand to-brand-dark text-white shadow">
           <div className="mx-auto flex max-w-6xl items-center justify-between p-4">
             <Link href="/" className="text-xl font-semibold text-white">PriceList</Link>
-            <nav className="flex gap-6 text-sm">
+            <nav className="flex items-center gap-6 text-sm">
               <Link href="/" className="opacity-90 transition hover:opacity-100">Items</Link>
               <Link href="/quotation" className="opacity-90 transition hover:opacity-100">Quotation</Link>
               <Link href="/invoice" className="opacity-90 transition hover:opacity-100">Invoice</Link>
+              <InstallApp />
             </nav>
           </div>
         </header>

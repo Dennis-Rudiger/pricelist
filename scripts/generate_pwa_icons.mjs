@@ -35,6 +35,7 @@ function writeSolidPng(size, filename) {
 async function run() {
   ensureDir(outDir);
   const targets = [
+    { size: 180, file: 'icon-180.png' },
     { size: 192, file: 'icon-192.png' },
     { size: 512, file: 'icon-512.png' },
   ];
